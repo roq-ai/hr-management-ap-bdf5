@@ -1,0 +1,3542 @@
+[
+  {
+    "salary_structure": [
+      {
+        "id": "f3869cd0-1259-4e62-8883-bc99a4e9070f",
+        "created_at": "2023-10-07T20:07:43.945Z",
+        "updated_at": "2023-10-07T23:04:51.943Z"
+      },
+      {
+        "id": "fe34c3a0-0527-4a66-9922-0958094f0e9e",
+        "created_at": "2023-10-07T07:16:02.733Z",
+        "updated_at": "2023-10-07T12:40:42.057Z"
+      },
+      {
+        "id": "17cd5c94-6956-4bb5-8cdd-6911ec71b6d6",
+        "created_at": "2023-10-07T06:08:00.279Z",
+        "updated_at": "2023-10-07T21:38:53.145Z"
+      },
+      {
+        "id": "e030edf0-ddac-4d5d-b97c-ae01f30b47e2",
+        "created_at": "2023-10-07T06:01:43.205Z",
+        "updated_at": "2023-10-07T06:05:01.454Z"
+      },
+      {
+        "id": "8533b2d2-8842-4e5f-bd41-03523ad2bf8a",
+        "created_at": "2023-10-07T11:30:04.802Z",
+        "updated_at": "2023-10-07T16:12:18.561Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "bd1c4df7-9ef0-4b93-9982-06f5565c6113",
+        "created_at": "2023-10-07T10:06:51.114Z",
+        "updated_at": "2023-10-07T07:46:36.221Z"
+      },
+      {
+        "id": "4fcb6745-a70f-4c39-89ad-8f716c601dc9",
+        "created_at": "2023-10-08T04:26:52.709Z",
+        "updated_at": "2023-10-07T22:11:51.601Z"
+      },
+      {
+        "id": "047290b4-f7dc-4ff0-a19d-a9c2364a7693",
+        "created_at": "2023-10-08T02:25:48.862Z",
+        "updated_at": "2023-10-07T23:40:54.090Z"
+      },
+      {
+        "id": "38846d9e-9d33-4225-ad3d-31c65629e03f",
+        "created_at": "2023-10-07T14:34:16.955Z",
+        "updated_at": "2023-10-07T10:27:50.187Z"
+      },
+      {
+        "id": "82fd5062-8f83-4291-bf84-2041bc9c5ff9",
+        "created_at": "2023-10-07T12:37:41.177Z",
+        "updated_at": "2023-10-08T01:47:14.391Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "967a5e95-aecc-4872-9648-cf37ee01a814",
+        "created_at": "2023-10-07T15:51:20.205Z",
+        "updated_at": "2023-10-08T04:39:56.766Z"
+      },
+      {
+        "id": "2f799558-35fc-4306-8dc0-d10a2b18d07f",
+        "created_at": "2023-10-07T17:40:17.182Z",
+        "updated_at": "2023-10-07T09:44:10.705Z"
+      },
+      {
+        "id": "7002371d-87c0-4446-bc58-1ac93fe14736",
+        "created_at": "2023-10-08T00:34:53.496Z",
+        "updated_at": "2023-10-08T02:04:31.290Z"
+      },
+      {
+        "id": "a4ed3caf-0500-48f8-bb05-2246c9303f3e",
+        "created_at": "2023-10-08T00:32:33.685Z",
+        "updated_at": "2023-10-07T21:24:49.386Z"
+      },
+      {
+        "id": "b2f48c2b-957d-4474-9d89-fd5549f2a794",
+        "created_at": "2023-10-08T03:22:25.265Z",
+        "updated_at": "2023-10-07T12:04:02.547Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "d9a7ff1b-d537-4d5d-8d5d-7eccdac22448",
+        "created_at": "2023-10-07T13:37:51.982Z",
+        "updated_at": "2023-10-07T20:18:57.425Z"
+      },
+      {
+        "id": "81ed0bb7-12c0-4a05-ac18-0978651363b4",
+        "created_at": "2023-10-07T21:36:29.025Z",
+        "updated_at": "2023-10-07T09:29:24.408Z"
+      },
+      {
+        "id": "5ec18c74-e3a7-4128-926f-b6eb25e88be7",
+        "created_at": "2023-10-07T23:49:11.430Z",
+        "updated_at": "2023-10-07T04:54:01.627Z"
+      },
+      {
+        "id": "c0e217ec-8ca4-48b9-b107-11b776761404",
+        "created_at": "2023-10-07T21:45:58.399Z",
+        "updated_at": "2023-10-08T02:55:39.439Z"
+      },
+      {
+        "id": "09bf4a27-19c3-4ce8-830c-6fb5c9e2c2e5",
+        "created_at": "2023-10-07T12:31:18.367Z",
+        "updated_at": "2023-10-07T17:24:19.684Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "b4525f80-b914-457c-a0f0-6fa4d0f94bf9",
+        "created_at": "2023-10-07T15:04:47.093Z",
+        "updated_at": "2023-10-08T02:41:55.834Z"
+      },
+      {
+        "id": "af5d1abb-d907-40f6-a08f-5af26095f4ba",
+        "created_at": "2023-10-07T07:53:49.820Z",
+        "updated_at": "2023-10-07T17:42:33.513Z"
+      },
+      {
+        "id": "88a6c885-c9b9-45ff-a9d8-14c9249f52a2",
+        "created_at": "2023-10-07T15:49:43.803Z",
+        "updated_at": "2023-10-08T03:29:13.041Z"
+      },
+      {
+        "id": "26bd9256-d8e4-4be6-94cd-817d26b887eb",
+        "created_at": "2023-10-07T15:47:40.385Z",
+        "updated_at": "2023-10-07T20:18:35.459Z"
+      },
+      {
+        "id": "9525b4fe-f94c-489f-8751-7d7cdea31fb4",
+        "created_at": "2023-10-07T11:20:39.164Z",
+        "updated_at": "2023-10-07T12:31:14.817Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "0dad4606-3d7c-4922-af94-349fabe71b0b",
+        "created_at": "2023-10-07T17:54:57.818Z",
+        "updated_at": "2023-10-07T18:11:32.267Z"
+      },
+      {
+        "id": "2a1e30b1-5aa3-4b63-812f-1c57cd00210d",
+        "created_at": "2023-10-08T04:17:09.859Z",
+        "updated_at": "2023-10-08T02:27:16.554Z"
+      },
+      {
+        "id": "1164a9ac-2724-47d9-9738-c9c1eb261109",
+        "created_at": "2023-10-08T00:21:28.828Z",
+        "updated_at": "2023-10-07T06:29:54.957Z"
+      },
+      {
+        "id": "4e09dd39-7d9d-4a4f-8c0e-ebac067aee5f",
+        "created_at": "2023-10-07T08:03:02.530Z",
+        "updated_at": "2023-10-07T23:40:27.232Z"
+      },
+      {
+        "id": "251af827-81e9-4045-94a2-94573536a440",
+        "created_at": "2023-10-08T04:27:46.304Z",
+        "updated_at": "2023-10-07T14:45:41.192Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "35fafa51-8358-4d67-a680-fac3194f8aff",
+        "created_at": "2023-10-07T05:49:59.858Z",
+        "updated_at": "2023-10-07T11:51:48.049Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Smith",
+        "employee_details": "Senior Developer"
+      },
+      {
+        "id": "748e32da-603c-4053-adf0-76e3c087c959",
+        "created_at": "2023-10-07T23:52:23.342Z",
+        "updated_at": "2023-10-08T01:24:22.901Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Doe",
+        "employee_details": "HR Manager"
+      },
+      {
+        "id": "75d70499-ada1-4271-a9f8-26b4339b0357",
+        "created_at": "2023-10-07T11:03:26.953Z",
+        "updated_at": "2023-10-07T05:55:12.570Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown",
+        "employee_details": "Sales Representative"
+      },
+      {
+        "id": "f8b1e395-36ca-428d-b725-f25ddef70106",
+        "created_at": "2023-10-07T11:00:36.711Z",
+        "updated_at": "2023-10-07T18:19:19.885Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones",
+        "employee_details": "Accountant"
+      },
+      {
+        "id": "863b8b3b-994c-454c-b49c-ac72c7bf2499",
+        "created_at": "2023-10-07T10:21:00.919Z",
+        "updated_at": "2023-10-07T23:02:16.725Z",
+        "employee_status": "Terminated",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson",
+        "employee_details": "Customer Service Representative"
+      }
+    ],
+    "department": [
+      {
+        "id": "124fa46b-11c2-4a78-b016-0ba72f4c7008",
+        "created_at": "2023-10-08T03:44:01.332Z",
+        "updated_at": "2023-10-08T00:21:22.389Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72b4a2fb-1e4a-4bb8-b7e2-07386b340369",
+        "created_at": "2023-10-08T01:39:30.120Z",
+        "updated_at": "2023-10-08T03:47:24.652Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53ed29c6-162f-4755-94e7-de5663f34d7e",
+        "created_at": "2023-10-07T17:13:30.883Z",
+        "updated_at": "2023-10-08T01:30:50.748Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbeaf7e3-a0a1-4fe3-a087-ccdd953b4493",
+        "created_at": "2023-10-07T06:34:42.475Z",
+        "updated_at": "2023-10-07T09:54:13.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b40c9aac-19df-455d-a6cd-461bea06e51f",
+        "created_at": "2023-10-08T01:59:05.052Z",
+        "updated_at": "2023-10-07T06:31:35.918Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "2767f1f9-491a-42cd-8eac-ef213df4cc33",
+        "created_at": "2023-10-07T22:06:00.065Z",
+        "updated_at": "2023-10-08T04:32:19.822Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a132d37-11e5-41c0-8080-932685908657",
+        "created_at": "2023-10-07T22:09:33.097Z",
+        "updated_at": "2023-10-07T06:56:58.040Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01520dbc-7dd7-471b-a7e6-3ba3799dab5e",
+        "created_at": "2023-10-07T20:00:35.824Z",
+        "updated_at": "2023-10-07T23:36:29.331Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6f0124a-4d93-4c37-8145-b53aca5f1d43",
+        "created_at": "2023-10-07T19:38:58.828Z",
+        "updated_at": "2023-10-07T19:46:27.374Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5855edc7-dcec-4397-a0eb-83552655bdeb",
+        "created_at": "2023-10-07T10:58:59.972Z",
+        "updated_at": "2023-10-07T16:21:09.556Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "117ce0f4-98cd-4ba0-a6e6-8b53ca27faf7",
+        "created_at": "2023-10-07T11:33:41.600Z",
+        "updated_at": "2023-10-08T01:45:25.651Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f395b83-ea85-463c-b040-8f52d2646eb9",
+        "created_at": "2023-10-07T13:19:58.016Z",
+        "updated_at": "2023-10-08T02:35:45.607Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "825478c9-a9d0-48d9-993b-942f68a2c022",
+        "created_at": "2023-10-07T14:51:26.180Z",
+        "updated_at": "2023-10-07T15:08:56.373Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fae4dc21-62a1-436e-ab7f-4a368e09aecd",
+        "created_at": "2023-10-08T04:38:38.731Z",
+        "updated_at": "2023-10-07T16:00:20.057Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "650313f0-1e13-442c-ad63-7bdad6c882d5",
+        "created_at": "2023-10-07T09:53:35.038Z",
+        "updated_at": "2023-10-07T07:26:59.683Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c6b99b64-bd4b-4008-a4f1-ea24c9cf1e2b",
+        "email": "Lilyan.Jones@roq.tech",
+        "firstName": "Sally",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79020311",
+        "tenantId": null
+      },
+      {
+        "reference": "c9f5cf70-e152-40f6-bc8b-9047a478e373",
+        "email": "Irving_Ziemann16@roq.tech",
+        "firstName": "Amely",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/297.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "18393423-d063-432c-8847-6603f6cea906",
+        "email": "Ricky56@roq.tech",
+        "firstName": "Grace",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/352.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "46d2f875-e347-4727-8807-49b4396af0c8",
+        "email": "Davonte.Rogahn@roq.tech",
+        "firstName": "Matteo",
+        "lastName": "Hyatt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1213.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "983612f7-a0e5-4d24-a75a-c45d8f1adc83",
+        "email": "Hazel.Kuhn5@roq.tech",
+        "firstName": "Maribel",
+        "lastName": "Langworth",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/939.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "9efefc12-ec9f-43f5-9187-475599dff9b3",
+        "created_at": "2023-10-07T15:06:34.144Z",
+        "updated_at": "2023-10-07T04:45:07.102Z"
+      },
+      {
+        "id": "c2eedb68-fb71-46b3-90ce-ddf3fe0e8df1",
+        "created_at": "2023-10-07T17:03:05.758Z",
+        "updated_at": "2023-10-07T09:22:06.953Z"
+      },
+      {
+        "id": "5c3689b0-2d0a-4ab8-a3df-d9e8429089a1",
+        "created_at": "2023-10-07T20:59:07.247Z",
+        "updated_at": "2023-10-07T09:33:44.388Z"
+      },
+      {
+        "id": "f3a6a16b-9189-4940-afef-fa13aaa601f0",
+        "created_at": "2023-10-07T14:14:11.375Z",
+        "updated_at": "2023-10-07T09:13:46.024Z"
+      },
+      {
+        "id": "d228a3e4-5b81-47bd-8662-b2400111eefe",
+        "created_at": "2023-10-07T17:47:11.945Z",
+        "updated_at": "2023-10-07T20:30:21.662Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "fbd723e5-d909-4173-9225-ed490afd9a42",
+        "created_at": "2023-10-07T17:52:08.788Z",
+        "updated_at": "2023-10-07T23:27:25.277Z"
+      },
+      {
+        "id": "18ecba56-6852-46b3-978a-a44168725fba",
+        "created_at": "2023-10-07T07:53:14.002Z",
+        "updated_at": "2023-10-07T08:31:43.933Z"
+      },
+      {
+        "id": "4698417d-4aee-4eba-b5ad-8a14dfc1f8a2",
+        "created_at": "2023-10-07T06:17:27.239Z",
+        "updated_at": "2023-10-07T14:12:21.196Z"
+      },
+      {
+        "id": "19744ef6-3de0-4f09-ad29-6ad8be456ba1",
+        "created_at": "2023-10-07T18:43:29.690Z",
+        "updated_at": "2023-10-08T04:31:32.877Z"
+      },
+      {
+        "id": "a4e4796b-5cad-40f3-8b56-430037bde2c4",
+        "created_at": "2023-10-07T09:26:31.160Z",
+        "updated_at": "2023-10-07T18:42:00.307Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "db8f6c9d-f95d-495d-9588-95b93bd61f01",
+        "created_at": "2023-10-07T19:59:11.207Z",
+        "updated_at": "2023-10-07T18:12:12.993Z"
+      },
+      {
+        "id": "c7d566e8-5c6c-461a-ab12-7f5a34e1fc0b",
+        "created_at": "2023-10-07T10:59:53.735Z",
+        "updated_at": "2023-10-07T09:29:33.861Z"
+      },
+      {
+        "id": "b184df2d-b987-47b9-9219-9d6978885d8e",
+        "created_at": "2023-10-08T01:54:44.601Z",
+        "updated_at": "2023-10-07T20:31:46.392Z"
+      },
+      {
+        "id": "e659a755-3988-42fb-ac18-618aeb28385a",
+        "created_at": "2023-10-07T08:10:27.676Z",
+        "updated_at": "2023-10-07T21:02:45.787Z"
+      },
+      {
+        "id": "fdbff6ae-cedd-47dc-8911-b2ec8cc0a26d",
+        "created_at": "2023-10-07T21:04:04.987Z",
+        "updated_at": "2023-10-07T15:43:30.145Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "32c2076a-f088-43b2-b029-5fb08b0ab18d",
+        "created_at": "2023-10-07T09:34:20.278Z",
+        "updated_at": "2023-10-07T08:22:39.944Z"
+      },
+      {
+        "id": "60305be6-d513-46e2-9a1f-4a78a88fea38",
+        "created_at": "2023-10-08T02:56:42.504Z",
+        "updated_at": "2023-10-07T22:01:32.650Z"
+      },
+      {
+        "id": "f0acc190-5509-4f45-bd5b-b06d2730d12f",
+        "created_at": "2023-10-07T11:21:57.122Z",
+        "updated_at": "2023-10-07T13:32:29.280Z"
+      },
+      {
+        "id": "2955881f-9eef-4b6c-8e4f-f3530c089223",
+        "created_at": "2023-10-07T21:00:05.179Z",
+        "updated_at": "2023-10-08T00:46:02.161Z"
+      },
+      {
+        "id": "ccb97ada-02a9-423f-9743-9735b18e6ac2",
+        "created_at": "2023-10-08T03:09:14.738Z",
+        "updated_at": "2023-10-07T14:22:48.206Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "e7a8464d-cc12-40df-b4ec-7c9cf72d7acb",
+        "created_at": "2023-10-07T21:14:49.006Z",
+        "updated_at": "2023-10-07T04:56:26.891Z"
+      },
+      {
+        "id": "5e45655a-1c8c-4969-a80d-d6e53e377524",
+        "created_at": "2023-10-07T19:13:38.144Z",
+        "updated_at": "2023-10-07T16:19:03.366Z"
+      },
+      {
+        "id": "d58580e1-f3e5-44a7-bafe-30d6cae65f12",
+        "created_at": "2023-10-07T07:22:54.340Z",
+        "updated_at": "2023-10-07T12:07:21.570Z"
+      },
+      {
+        "id": "9377085a-44bf-455a-b9d6-29f52c32c39d",
+        "created_at": "2023-10-07T05:04:17.738Z",
+        "updated_at": "2023-10-08T01:47:20.827Z"
+      },
+      {
+        "id": "8e31984a-1b45-4dc2-b78b-d97ab2b6b03d",
+        "created_at": "2023-10-07T15:43:12.526Z",
+        "updated_at": "2023-10-07T07:02:57.933Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "715ec781-4e55-4d63-b674-44ef84af2934",
+        "created_at": "2023-10-07T20:38:46.778Z",
+        "updated_at": "2023-10-07T11:52:36.487Z"
+      },
+      {
+        "id": "cdde0dd4-0008-4abe-8cfa-34923bc5a169",
+        "created_at": "2023-10-07T06:20:19.328Z",
+        "updated_at": "2023-10-07T15:41:50.777Z"
+      },
+      {
+        "id": "cc0b7d4d-26a6-4e76-a826-926f1a3c8c64",
+        "created_at": "2023-10-07T05:32:20.555Z",
+        "updated_at": "2023-10-07T08:31:19.561Z"
+      },
+      {
+        "id": "6af79f55-fd1a-400a-95ab-8478062906a5",
+        "created_at": "2023-10-07T21:15:13.194Z",
+        "updated_at": "2023-10-07T07:36:24.810Z"
+      },
+      {
+        "id": "8eb895ac-f74d-443a-bb63-dfacc8daf1af",
+        "created_at": "2023-10-07T14:54:10.939Z",
+        "updated_at": "2023-10-07T22:40:11.969Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "5948bce3-789a-479d-be47-de9f547890e3",
+        "created_at": "2023-10-08T03:24:23.486Z",
+        "updated_at": "2023-10-07T19:38:18.321Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Doe - 123-456-7890",
+        "employee_details": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "id": "c092ae35-ab64-44d8-a76e-ad5e82496119",
+        "created_at": "2023-10-07T21:15:44.902Z",
+        "updated_at": "2023-10-07T14:54:29.748Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Smith - 987-654-3210",
+        "employee_details": "Consectetur adipiscing elit"
+      },
+      {
+        "id": "f08de174-0810-42b8-990a-3e009bee70f6",
+        "created_at": "2023-10-07T08:02:33.255Z",
+        "updated_at": "2023-10-08T00:25:30.731Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown - 555-555-5555",
+        "employee_details": "Sed do eiusmod tempor incididunt"
+      },
+      {
+        "id": "cf090e04-7ab6-471c-aca4-9430f3a53cd2",
+        "created_at": "2023-10-07T21:34:56.361Z",
+        "updated_at": "2023-10-07T23:16:00.912Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones - 111-222-3333",
+        "employee_details": "Ut labore et dolore magna aliqua"
+      },
+      {
+        "id": "33df0ff0-4b8a-4c33-b563-6d9d9fe476b9",
+        "created_at": "2023-10-07T07:40:38.472Z",
+        "updated_at": "2023-10-07T19:19:55.614Z",
+        "employee_status": "Suspended",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson - 444-444-4444",
+        "employee_details": "Ut enim ad minim veniam"
+      }
+    ],
+    "department": [
+      {
+        "id": "3dd78e7b-5a88-463d-938d-0a2997799e18",
+        "created_at": "2023-10-07T13:06:52.836Z",
+        "updated_at": "2023-10-07T21:45:48.460Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "373d032a-5263-40be-906b-caecf662e324",
+        "created_at": "2023-10-07T17:45:19.074Z",
+        "updated_at": "2023-10-07T17:59:03.078Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a999757e-0c38-46f6-ba13-ead204608a26",
+        "created_at": "2023-10-07T15:50:14.064Z",
+        "updated_at": "2023-10-07T12:23:38.049Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92fa63bb-ac30-4087-838a-9ab5e4041f78",
+        "created_at": "2023-10-07T05:53:54.413Z",
+        "updated_at": "2023-10-08T02:12:07.906Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b504909a-d23b-4a1f-9101-ca5847e9161f",
+        "created_at": "2023-10-07T19:31:44.858Z",
+        "updated_at": "2023-10-07T11:11:59.515Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "faf7a193-761d-4723-9e85-6ed3e60beaf4",
+        "created_at": "2023-10-07T13:59:48.573Z",
+        "updated_at": "2023-10-08T03:15:35.131Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e105be02-c1d3-41bc-b3b6-a21ca23ee8a3",
+        "created_at": "2023-10-07T05:21:35.651Z",
+        "updated_at": "2023-10-07T06:26:42.074Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff164d76-fea7-46ad-b305-286f3de1126b",
+        "created_at": "2023-10-07T21:22:44.564Z",
+        "updated_at": "2023-10-07T05:20:54.165Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "796e4e50-658a-45e3-b7e6-a4fa1e4a944f",
+        "created_at": "2023-10-08T02:10:00.893Z",
+        "updated_at": "2023-10-08T01:20:33.859Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df563a3c-88f1-4824-9c4d-2454ca5891ec",
+        "created_at": "2023-10-07T22:38:56.155Z",
+        "updated_at": "2023-10-07T22:49:10.110Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "5b7ab82d-e83e-4997-b934-d7288869cc6b",
+        "created_at": "2023-10-07T20:17:16.208Z",
+        "updated_at": "2023-10-07T08:56:29.945Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6fff4b65-3321-4cb3-8abb-669fad18f161",
+        "created_at": "2023-10-07T11:45:00.386Z",
+        "updated_at": "2023-10-08T04:04:00.357Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f7b3ffa-a520-4ab0-bb20-d0c3fdc69f28",
+        "created_at": "2023-10-07T11:43:13.749Z",
+        "updated_at": "2023-10-07T21:25:14.984Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d2cccdf-74d0-4445-b051-a9dd78eda696",
+        "created_at": "2023-10-07T16:28:07.203Z",
+        "updated_at": "2023-10-07T14:42:14.343Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "41ee2965-8e79-45c4-ba5c-c3167cd7927b",
+        "created_at": "2023-10-08T03:36:36.700Z",
+        "updated_at": "2023-10-07T09:16:02.856Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "350180fe-6d5c-4241-9ee7-6b1bc1dbc99d",
+        "email": "Felton89@roq.tech",
+        "firstName": "Christopher",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/635.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d007437e-22fc-4348-9084-d48c579d4932",
+        "email": "Guiseppe.Jerde58@roq.tech",
+        "firstName": "Elissa",
+        "lastName": "Kovacek-Hyatt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1134.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2eafaa8e-bfe4-4df6-888c-0da82c986daf",
+        "email": "Kacie77@roq.tech",
+        "firstName": "Christ",
+        "lastName": "Abshire",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/140.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5f3737dc-2a8e-4a34-9f90-e6af2943d5e3",
+        "email": "Nettie_Powlowski@roq.tech",
+        "firstName": "Fatima",
+        "lastName": "Parisian-O'Kon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34674885",
+        "tenantId": null
+      },
+      {
+        "reference": "fc12e2d4-4259-43c5-9835-2a025579ea94",
+        "email": "Bertrand.Lang75@roq.tech",
+        "firstName": "Erling",
+        "lastName": "Barton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/201.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "10954cbe-aa17-43df-945a-a97a0cd247d0",
+        "created_at": "2023-10-07T09:46:46.104Z",
+        "updated_at": "2023-10-07T20:31:36.953Z"
+      },
+      {
+        "id": "29cd7eac-674e-422e-9a1e-f8f280f7042b",
+        "created_at": "2023-10-07T16:46:49.968Z",
+        "updated_at": "2023-10-07T21:34:48.017Z"
+      },
+      {
+        "id": "604b0bc6-b49b-4620-8333-153688440142",
+        "created_at": "2023-10-07T05:38:38.274Z",
+        "updated_at": "2023-10-07T16:24:24.907Z"
+      },
+      {
+        "id": "8683aa30-97dd-44ac-a8c4-271b46fb5774",
+        "created_at": "2023-10-07T08:08:05.735Z",
+        "updated_at": "2023-10-07T14:03:12.601Z"
+      },
+      {
+        "id": "cb18207b-939e-430c-a11b-bd2aabaf72db",
+        "created_at": "2023-10-08T02:54:18.645Z",
+        "updated_at": "2023-10-07T18:28:00.386Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "d0ed9eae-a148-48ec-baad-3d83c361fb6b",
+        "created_at": "2023-10-07T21:03:17.038Z",
+        "updated_at": "2023-10-07T08:36:39.556Z"
+      },
+      {
+        "id": "266b6157-5b67-4a02-9026-5ec578d61bc8",
+        "created_at": "2023-10-07T07:53:28.739Z",
+        "updated_at": "2023-10-08T02:07:24.562Z"
+      },
+      {
+        "id": "4e1bc036-221a-47ab-a86c-337f2b1cc426",
+        "created_at": "2023-10-07T22:08:23.134Z",
+        "updated_at": "2023-10-07T22:58:23.323Z"
+      },
+      {
+        "id": "d0fccc72-61ed-413b-ba2e-fd118502b635",
+        "created_at": "2023-10-07T10:59:40.733Z",
+        "updated_at": "2023-10-07T08:56:46.678Z"
+      },
+      {
+        "id": "70b5b1b9-682d-4dd3-b29a-8e107dd8d50c",
+        "created_at": "2023-10-07T10:58:15.691Z",
+        "updated_at": "2023-10-08T01:55:28.313Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "cbacce66-5722-4cd8-8ec5-839b55d750de",
+        "created_at": "2023-10-07T08:02:22.383Z",
+        "updated_at": "2023-10-07T06:22:39.809Z"
+      },
+      {
+        "id": "be2aa21f-27e5-46c8-b6a9-771a5689a906",
+        "created_at": "2023-10-08T00:48:52.273Z",
+        "updated_at": "2023-10-07T15:36:00.285Z"
+      },
+      {
+        "id": "40e57297-6f86-421c-8f0f-7c7f1859dc68",
+        "created_at": "2023-10-07T12:47:50.763Z",
+        "updated_at": "2023-10-07T13:44:19.718Z"
+      },
+      {
+        "id": "65cdad37-24f2-41bf-b044-454091b42332",
+        "created_at": "2023-10-07T14:46:10.814Z",
+        "updated_at": "2023-10-08T03:22:20.812Z"
+      },
+      {
+        "id": "b7f1fee5-74c7-4c67-9939-f44ce0d62a2e",
+        "created_at": "2023-10-07T04:50:28.947Z",
+        "updated_at": "2023-10-07T09:50:04.425Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "7b5cdb39-d214-4165-a8c2-1672ac37da89",
+        "created_at": "2023-10-07T17:45:25.544Z",
+        "updated_at": "2023-10-07T21:17:37.991Z"
+      },
+      {
+        "id": "3af1fd30-b1ed-41ba-9446-3055a831ab8c",
+        "created_at": "2023-10-07T13:29:57.738Z",
+        "updated_at": "2023-10-07T21:00:46.200Z"
+      },
+      {
+        "id": "d9685a90-af5b-4aa4-a6bf-204ad49fd6b2",
+        "created_at": "2023-10-07T15:11:21.040Z",
+        "updated_at": "2023-10-08T03:14:57.951Z"
+      },
+      {
+        "id": "ae7342e5-5e5d-4f01-803b-de2f0d4ca31c",
+        "created_at": "2023-10-07T10:05:44.512Z",
+        "updated_at": "2023-10-07T23:11:11.740Z"
+      },
+      {
+        "id": "0816c41c-5507-4f47-ab12-bd74950a1a5b",
+        "created_at": "2023-10-07T21:14:48.770Z",
+        "updated_at": "2023-10-07T21:34:19.415Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "b027352e-766c-40a4-b57e-3b70a0339dad",
+        "created_at": "2023-10-07T08:42:19.477Z",
+        "updated_at": "2023-10-08T04:39:35.825Z"
+      },
+      {
+        "id": "389aa30c-f095-4ee4-8dab-dfdb34165643",
+        "created_at": "2023-10-07T10:34:48.385Z",
+        "updated_at": "2023-10-07T09:24:09.311Z"
+      },
+      {
+        "id": "5e5d0101-0498-4934-b422-c25660729eee",
+        "created_at": "2023-10-07T18:17:05.225Z",
+        "updated_at": "2023-10-07T11:31:23.600Z"
+      },
+      {
+        "id": "0dbbdc85-8dcc-4b9d-bb4a-a5a71995a7fc",
+        "created_at": "2023-10-08T03:26:39.236Z",
+        "updated_at": "2023-10-07T22:18:43.669Z"
+      },
+      {
+        "id": "b51a795c-f840-4b33-8b8e-05b3c3de51f8",
+        "created_at": "2023-10-07T15:21:27.092Z",
+        "updated_at": "2023-10-07T21:23:20.822Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "4d7a2c5f-b45d-4acf-b85e-4556d4fa74b6",
+        "created_at": "2023-10-07T06:18:28.918Z",
+        "updated_at": "2023-10-08T01:01:19.930Z"
+      },
+      {
+        "id": "b48acf97-5747-45a4-a9a1-88625c45ad96",
+        "created_at": "2023-10-07T12:17:15.974Z",
+        "updated_at": "2023-10-07T20:47:19.640Z"
+      },
+      {
+        "id": "d8709a42-9780-4d3f-ace7-4be7a30ff544",
+        "created_at": "2023-10-07T05:39:56.411Z",
+        "updated_at": "2023-10-07T10:17:47.246Z"
+      },
+      {
+        "id": "1b12d616-8778-47c0-b202-0c389918ea6b",
+        "created_at": "2023-10-07T20:36:29.333Z",
+        "updated_at": "2023-10-07T07:25:25.719Z"
+      },
+      {
+        "id": "a798fc35-5201-4bb9-9dbd-f48cb8bdefb4",
+        "created_at": "2023-10-07T09:58:15.262Z",
+        "updated_at": "2023-10-07T08:57:32.842Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "64b6477c-5ec5-4200-9f52-8b8627ad6cb8",
+        "created_at": "2023-10-07T11:51:30.227Z",
+        "updated_at": "2023-10-07T23:43:32.900Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Smith",
+        "employee_details": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "id": "bc176f46-7f42-49d7-81c5-fdea942aff08",
+        "created_at": "2023-10-07T14:43:13.199Z",
+        "updated_at": "2023-10-07T10:00:20.812Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Doe",
+        "employee_details": "Consectetur adipiscing elit"
+      },
+      {
+        "id": "b4fa94fa-4494-45e6-8331-7cd964df91eb",
+        "created_at": "2023-10-08T01:53:28.477Z",
+        "updated_at": "2023-10-08T03:46:22.100Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown",
+        "employee_details": "Sed do eiusmod tempor incididunt"
+      },
+      {
+        "id": "9cd87361-2b0e-4af5-88b7-9bdc3f304a56",
+        "created_at": "2023-10-07T12:07:25.773Z",
+        "updated_at": "2023-10-07T14:12:38.180Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones",
+        "employee_details": "Ut labore et dolore magna aliqua"
+      },
+      {
+        "id": "3e938f2e-a3fd-472c-9132-3ee9c62957fa",
+        "created_at": "2023-10-07T10:59:11.295Z",
+        "updated_at": "2023-10-07T13:19:57.410Z",
+        "employee_status": "Suspended",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson",
+        "employee_details": "Ut enim ad minim veniam"
+      }
+    ],
+    "department": [
+      {
+        "id": "aa659917-2e39-42a2-9a3e-673d4a755383",
+        "created_at": "2023-10-07T17:04:27.539Z",
+        "updated_at": "2023-10-07T20:51:58.893Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b10d767-79ea-4c72-9d13-a5e6c1810e77",
+        "created_at": "2023-10-07T07:22:25.590Z",
+        "updated_at": "2023-10-07T21:33:17.538Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff5c5f13-99db-469e-a629-12fa5a95385a",
+        "created_at": "2023-10-07T12:26:54.625Z",
+        "updated_at": "2023-10-07T14:07:41.659Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee49be15-5b5c-4e49-a94e-7fd67c179682",
+        "created_at": "2023-10-08T03:29:54.097Z",
+        "updated_at": "2023-10-07T18:55:14.618Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "438571c9-35ed-4334-9b47-4946d3fd033a",
+        "created_at": "2023-10-07T16:04:47.406Z",
+        "updated_at": "2023-10-07T15:09:27.586Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "c9c70c41-df17-436b-be77-0ae8224da77a",
+        "created_at": "2023-10-07T10:21:52.610Z",
+        "updated_at": "2023-10-08T00:07:15.176Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f0e6c2f-72dd-4b4f-9dbd-a15cc99ac8e8",
+        "created_at": "2023-10-07T21:54:23.105Z",
+        "updated_at": "2023-10-07T21:43:32.754Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a653ba1b-66b1-4d51-b57f-ccee2a9609e7",
+        "created_at": "2023-10-07T07:07:14.361Z",
+        "updated_at": "2023-10-07T14:55:57.822Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "006206ad-5bf8-480f-8269-fbe62ff9c26f",
+        "created_at": "2023-10-07T10:42:25.283Z",
+        "updated_at": "2023-10-07T12:34:19.780Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7a6c316-37ce-4a22-ada5-54e76d4c5b57",
+        "created_at": "2023-10-07T22:32:57.694Z",
+        "updated_at": "2023-10-07T20:40:01.163Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "d1edf254-3446-4b01-854a-c6b8297a5f08",
+        "created_at": "2023-10-07T10:08:09.147Z",
+        "updated_at": "2023-10-08T00:52:30.184Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d61f9ba-90bc-44fa-a093-5eae4e1869c2",
+        "created_at": "2023-10-07T23:17:49.263Z",
+        "updated_at": "2023-10-07T20:44:03.579Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7c7cafb-4293-4586-a5aa-86a5ad3833e0",
+        "created_at": "2023-10-08T00:06:21.868Z",
+        "updated_at": "2023-10-07T18:53:56.543Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c35ce33-f64f-45ce-bb52-2ade5dc441e1",
+        "created_at": "2023-10-08T01:10:21.959Z",
+        "updated_at": "2023-10-07T12:37:10.031Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b43566cf-0932-4b7a-880b-2469c6d61258",
+        "created_at": "2023-10-07T19:16:10.790Z",
+        "updated_at": "2023-10-07T14:38:54.683Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "806d4468-39eb-49ba-a2c0-4c95e8e4719b",
+        "email": "Reva_Kris@roq.tech",
+        "firstName": "Lyda",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55397184",
+        "tenantId": null
+      },
+      {
+        "reference": "e91a4f6b-ef6e-4ee7-b3d1-c9bcf1393bf8",
+        "email": "Marquise.Collins@roq.tech",
+        "firstName": "Dakota",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/937.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e6911d8e-28d0-4261-aee7-456fa2ec1641",
+        "email": "Raymundo_Quigley67@roq.tech",
+        "firstName": "Myriam",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/127.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "66e3c7bc-91ea-4e2b-9fcc-655fe79aea72",
+        "email": "Bernardo.Smith-Stamm@roq.tech",
+        "firstName": "Shanelle",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18316610",
+        "tenantId": null
+      },
+      {
+        "reference": "4cb4b323-4493-46b5-89b7-7b89fffe52fb",
+        "email": "Justyn28@roq.tech",
+        "firstName": "Cierra",
+        "lastName": "Bergnaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/906.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "336103e7-3150-4bb0-9aac-51e62cb481fa",
+        "created_at": "2023-10-07T11:06:56.494Z",
+        "updated_at": "2023-10-08T00:53:11.025Z"
+      },
+      {
+        "id": "0b33788c-179f-406e-bc6c-ae4ca6e396a7",
+        "created_at": "2023-10-07T21:55:55.207Z",
+        "updated_at": "2023-10-07T17:04:14.699Z"
+      },
+      {
+        "id": "06f6b28e-53ec-4263-90e3-c414509b8f4d",
+        "created_at": "2023-10-08T03:54:05.175Z",
+        "updated_at": "2023-10-07T06:47:34.465Z"
+      },
+      {
+        "id": "137f1066-beab-406b-976a-28332b7057e7",
+        "created_at": "2023-10-07T23:11:50.138Z",
+        "updated_at": "2023-10-07T20:02:54.093Z"
+      },
+      {
+        "id": "5054893d-1add-4f62-9555-41967bbf2d17",
+        "created_at": "2023-10-08T04:22:45.502Z",
+        "updated_at": "2023-10-07T18:22:24.182Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "e7a02194-9de3-4e25-a4dc-8a40d93d9a31",
+        "created_at": "2023-10-07T23:07:06.275Z",
+        "updated_at": "2023-10-07T05:55:05.001Z"
+      },
+      {
+        "id": "15e0d4d8-cca5-4e72-9aa7-197075779267",
+        "created_at": "2023-10-07T22:59:02.910Z",
+        "updated_at": "2023-10-07T13:47:08.900Z"
+      },
+      {
+        "id": "57bd72f9-8022-4602-b710-974d18ebd20e",
+        "created_at": "2023-10-07T08:21:35.658Z",
+        "updated_at": "2023-10-07T19:27:14.616Z"
+      },
+      {
+        "id": "e6461b07-b813-43ff-a969-520726958975",
+        "created_at": "2023-10-08T00:25:48.109Z",
+        "updated_at": "2023-10-08T02:36:32.214Z"
+      },
+      {
+        "id": "b0c230a1-3201-42de-ad7f-5d48746909ee",
+        "created_at": "2023-10-07T14:09:06.577Z",
+        "updated_at": "2023-10-07T10:49:12.641Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "360fe24d-6d80-4a1b-a9c2-b8c7263d9f4b",
+        "created_at": "2023-10-07T13:47:50.529Z",
+        "updated_at": "2023-10-07T15:34:00.959Z"
+      },
+      {
+        "id": "6496eebf-0563-44cc-a34d-1b1077d634a9",
+        "created_at": "2023-10-07T07:37:22.898Z",
+        "updated_at": "2023-10-07T16:16:45.958Z"
+      },
+      {
+        "id": "ca1c263c-c04b-4c38-91dc-e2c13a346afe",
+        "created_at": "2023-10-07T10:44:13.946Z",
+        "updated_at": "2023-10-08T00:28:32.687Z"
+      },
+      {
+        "id": "d854ccca-ce61-46dd-854b-b1e7bba3aa95",
+        "created_at": "2023-10-07T13:05:19.251Z",
+        "updated_at": "2023-10-07T15:21:19.821Z"
+      },
+      {
+        "id": "39ec524f-0f95-4ece-96f3-7cb65b6aca30",
+        "created_at": "2023-10-07T11:18:13.780Z",
+        "updated_at": "2023-10-07T10:42:15.150Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "99b309ce-95d8-4dac-8697-593de5e38435",
+        "created_at": "2023-10-07T13:18:04.228Z",
+        "updated_at": "2023-10-08T04:01:39.809Z"
+      },
+      {
+        "id": "73062153-9d1c-4749-9e21-15b7d6976418",
+        "created_at": "2023-10-07T22:19:18.749Z",
+        "updated_at": "2023-10-07T14:26:23.218Z"
+      },
+      {
+        "id": "f10b0ee6-d136-47b9-b9a8-56a37ab65d8a",
+        "created_at": "2023-10-07T12:40:32.936Z",
+        "updated_at": "2023-10-07T09:03:11.227Z"
+      },
+      {
+        "id": "c64fcf66-7728-42e4-a743-ff7196997f36",
+        "created_at": "2023-10-07T15:37:24.540Z",
+        "updated_at": "2023-10-07T21:17:28.150Z"
+      },
+      {
+        "id": "e6c6a591-3078-42f8-84ec-fd511a563ddf",
+        "created_at": "2023-10-07T22:10:14.554Z",
+        "updated_at": "2023-10-08T03:51:27.707Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "799ced29-5863-4eb4-978f-ad060b1d1f7b",
+        "created_at": "2023-10-07T17:29:59.623Z",
+        "updated_at": "2023-10-08T04:32:56.070Z"
+      },
+      {
+        "id": "97d252c0-0038-41df-9f1a-193c4e606c7d",
+        "created_at": "2023-10-07T11:49:43.073Z",
+        "updated_at": "2023-10-07T19:37:14.549Z"
+      },
+      {
+        "id": "18b22e93-a6ae-4158-918f-6b41582ee280",
+        "created_at": "2023-10-07T22:26:58.058Z",
+        "updated_at": "2023-10-07T20:00:21.543Z"
+      },
+      {
+        "id": "1c7ad223-4547-4565-8864-0458242c8f0c",
+        "created_at": "2023-10-07T19:09:51.993Z",
+        "updated_at": "2023-10-07T17:11:25.023Z"
+      },
+      {
+        "id": "524e5fbd-c806-4b2a-8b65-f0205559e45b",
+        "created_at": "2023-10-07T09:40:23.604Z",
+        "updated_at": "2023-10-08T04:04:46.542Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "a7c7a477-12fd-474e-81af-9689731ad00d",
+        "created_at": "2023-10-07T11:48:56.709Z",
+        "updated_at": "2023-10-07T20:54:29.535Z"
+      },
+      {
+        "id": "fddfa640-29b6-463e-8965-c855a8866e1a",
+        "created_at": "2023-10-07T21:05:23.999Z",
+        "updated_at": "2023-10-07T08:32:11.186Z"
+      },
+      {
+        "id": "e5b4d3eb-f3a6-4620-a82e-635a94109056",
+        "created_at": "2023-10-08T01:02:33.482Z",
+        "updated_at": "2023-10-07T16:43:00.129Z"
+      },
+      {
+        "id": "a20cbdb3-684b-492b-b658-777460d443b7",
+        "created_at": "2023-10-07T17:17:36.600Z",
+        "updated_at": "2023-10-07T12:30:54.101Z"
+      },
+      {
+        "id": "fdbe17d7-779b-46db-a63a-752a20677d87",
+        "created_at": "2023-10-07T21:57:06.896Z",
+        "updated_at": "2023-10-07T22:07:09.657Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "d6762139-0e9c-40d1-97b0-909cee601642",
+        "created_at": "2023-10-08T02:06:12.580Z",
+        "updated_at": "2023-10-07T18:58:46.270Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Doe - 123-456-7890",
+        "employee_details": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "id": "64f52b7e-5635-4912-bdbe-dded349dee27",
+        "created_at": "2023-10-07T21:05:08.628Z",
+        "updated_at": "2023-10-07T15:10:15.862Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Smith - 987-654-3210",
+        "employee_details": "Consectetur adipiscing elit"
+      },
+      {
+        "id": "c49858e9-4605-4439-b87d-d1dcdcdce268",
+        "created_at": "2023-10-07T05:28:12.738Z",
+        "updated_at": "2023-10-07T22:09:01.407Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown - 555-123-4567",
+        "employee_details": "Sed do eiusmod tempor incididunt"
+      },
+      {
+        "id": "b49c679b-787c-4cf6-9c73-478553a49efe",
+        "created_at": "2023-10-07T18:39:17.327Z",
+        "updated_at": "2023-10-07T14:46:08.707Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones - 888-999-0000",
+        "employee_details": "Ut labore et dolore magna aliqua"
+      },
+      {
+        "id": "3d084f14-7064-41a1-9c64-b35bba911f30",
+        "created_at": "2023-10-07T13:03:18.074Z",
+        "updated_at": "2023-10-07T08:29:11.906Z",
+        "employee_status": "Terminated",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "Robert Wilson - 111-222-3333",
+        "employee_details": "Ut enim ad minim veniam"
+      }
+    ],
+    "department": [
+      {
+        "id": "a188238d-88df-45d5-ad3d-a2eaf445517d",
+        "created_at": "2023-10-07T19:24:57.551Z",
+        "updated_at": "2023-10-07T17:29:32.164Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71956605-5d49-470c-b939-5f072600f8ce",
+        "created_at": "2023-10-08T02:15:12.363Z",
+        "updated_at": "2023-10-07T09:39:05.545Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce27e9ba-87e2-4cd0-bd47-7bae9dace429",
+        "created_at": "2023-10-07T18:26:36.345Z",
+        "updated_at": "2023-10-08T01:42:09.990Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0dad397-c230-42da-91ca-2bf76666ece8",
+        "created_at": "2023-10-07T18:07:49.263Z",
+        "updated_at": "2023-10-08T02:05:10.183Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce3886bf-1e0e-4e9a-bafc-b7674d5fd2c5",
+        "created_at": "2023-10-07T12:37:34.543Z",
+        "updated_at": "2023-10-07T21:22:29.596Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "2473bf89-48ff-47c2-9956-33fbf2eff9b0",
+        "created_at": "2023-10-07T20:14:14.959Z",
+        "updated_at": "2023-10-07T21:34:00.962Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21af355d-3d0d-4943-8680-778442b36624",
+        "created_at": "2023-10-07T11:23:35.382Z",
+        "updated_at": "2023-10-07T08:03:12.417Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "399f04f4-7721-4fae-b639-644b0f4dddb7",
+        "created_at": "2023-10-07T16:28:24.079Z",
+        "updated_at": "2023-10-07T14:25:15.997Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01860ff6-59fe-4446-bee8-3c83f55c6934",
+        "created_at": "2023-10-07T15:33:58.053Z",
+        "updated_at": "2023-10-07T12:18:06.470Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db564ee2-8f24-499c-bbce-ad07c499e5f5",
+        "created_at": "2023-10-07T22:24:48.305Z",
+        "updated_at": "2023-10-07T06:18:40.975Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "c8493599-80a3-42ec-9f12-e861555ee964",
+        "created_at": "2023-10-07T19:58:31.131Z",
+        "updated_at": "2023-10-07T15:37:11.368Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bcddc736-4f13-4bf9-831c-db67834bd4dd",
+        "created_at": "2023-10-07T15:04:53.848Z",
+        "updated_at": "2023-10-07T07:59:09.993Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4611ee95-8d8d-4e04-b6a7-f8870ba4e9e5",
+        "created_at": "2023-10-08T02:36:03.158Z",
+        "updated_at": "2023-10-08T04:08:14.907Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ab729fb-e617-47a7-b1e3-b8e611fda9cc",
+        "created_at": "2023-10-08T03:50:09.311Z",
+        "updated_at": "2023-10-07T16:21:06.588Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e863d8f3-b8a5-4ae0-af34-56b2ce28b5a1",
+        "created_at": "2023-10-07T15:54:16.235Z",
+        "updated_at": "2023-10-07T11:39:51.373Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "239190af-51a8-40c9-aba7-9961c9564171",
+        "email": "Shaniya_Haley62@roq.tech",
+        "firstName": "Cristina",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/38.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce61d496-26a0-42c2-a64d-3be9dc137caf",
+        "email": "Jonatan_Harvey@roq.tech",
+        "firstName": "Junius",
+        "lastName": "Koelpin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77392400",
+        "tenantId": null
+      },
+      {
+        "reference": "50aedd48-32a2-4879-888a-dcef65c95226",
+        "email": "Judson.West35@roq.tech",
+        "firstName": "Scarlett",
+        "lastName": "Purdy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/879.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "446f5eef-a9d5-4e86-a57f-4483153bb5c8",
+        "email": "Johnson_Doyle@roq.tech",
+        "firstName": "Marcella",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/728.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b2dfac96-2c89-435f-a577-ea491035c00d",
+        "email": "Susie33@roq.tech",
+        "firstName": "Katheryn",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1010.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "3061db9a-cd82-4bd6-924c-656dd14c8955",
+        "created_at": "2023-10-07T10:45:56.502Z",
+        "updated_at": "2023-10-07T20:52:20.280Z"
+      },
+      {
+        "id": "e5acb3c4-e9f6-4104-968e-a5db136789df",
+        "created_at": "2023-10-07T16:41:12.821Z",
+        "updated_at": "2023-10-07T20:34:34.076Z"
+      },
+      {
+        "id": "58894ae6-a757-4430-b1b8-17fea3eaa005",
+        "created_at": "2023-10-08T02:03:09.022Z",
+        "updated_at": "2023-10-07T06:24:08.882Z"
+      },
+      {
+        "id": "494dd7da-0f86-453e-b279-6076b6af76ad",
+        "created_at": "2023-10-07T22:26:07.785Z",
+        "updated_at": "2023-10-07T20:22:22.126Z"
+      },
+      {
+        "id": "2bab0db5-357c-47b5-a63b-6122673c568c",
+        "created_at": "2023-10-08T04:11:27.732Z",
+        "updated_at": "2023-10-07T11:08:17.959Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "673792eb-2c26-442e-9995-7d3646bf6fd2",
+        "created_at": "2023-10-08T02:21:44.728Z",
+        "updated_at": "2023-10-07T19:09:05.290Z"
+      },
+      {
+        "id": "618b5567-1caa-47df-820f-c25eb6ddc3d3",
+        "created_at": "2023-10-07T17:50:41.408Z",
+        "updated_at": "2023-10-07T21:32:24.422Z"
+      },
+      {
+        "id": "f17828f9-8844-491b-938b-946758c6e419",
+        "created_at": "2023-10-08T02:37:26.740Z",
+        "updated_at": "2023-10-07T18:03:41.563Z"
+      },
+      {
+        "id": "4f7f7d0b-51f2-4016-ab03-a9b9eed07eac",
+        "created_at": "2023-10-07T15:35:00.542Z",
+        "updated_at": "2023-10-07T21:17:04.634Z"
+      },
+      {
+        "id": "6b9385bb-435f-4fbd-801a-003460aaa219",
+        "created_at": "2023-10-07T18:09:23.748Z",
+        "updated_at": "2023-10-08T04:32:31.377Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "65cfaf6e-78de-4e3f-a139-f671f87a355d",
+        "created_at": "2023-10-07T22:39:09.429Z",
+        "updated_at": "2023-10-07T05:46:28.799Z"
+      },
+      {
+        "id": "124ccd1a-9ec9-4a82-b7c4-b299a6b923f2",
+        "created_at": "2023-10-07T06:06:53.739Z",
+        "updated_at": "2023-10-07T22:17:20.726Z"
+      },
+      {
+        "id": "9d8c22c6-c770-4e50-8aa1-e7ed33bddb00",
+        "created_at": "2023-10-07T05:52:48.871Z",
+        "updated_at": "2023-10-07T05:27:19.293Z"
+      },
+      {
+        "id": "1beb4e88-6f57-4530-8b80-06a541e3111e",
+        "created_at": "2023-10-07T16:01:38.402Z",
+        "updated_at": "2023-10-07T17:19:07.104Z"
+      },
+      {
+        "id": "2bc78dc8-2c42-4a72-bc89-8655aa245943",
+        "created_at": "2023-10-08T00:22:19.542Z",
+        "updated_at": "2023-10-07T15:00:39.638Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "4b510de4-fccc-49b0-99e0-5a5ea28ffb40",
+        "created_at": "2023-10-07T08:25:27.860Z",
+        "updated_at": "2023-10-07T06:59:03.036Z"
+      },
+      {
+        "id": "f7ce0c9a-029c-4a3f-89d1-403da56cfadf",
+        "created_at": "2023-10-07T12:58:01.911Z",
+        "updated_at": "2023-10-07T12:20:41.463Z"
+      },
+      {
+        "id": "7c2d9fcf-0148-41d1-b90d-fd3056397a9c",
+        "created_at": "2023-10-07T18:14:50.131Z",
+        "updated_at": "2023-10-07T20:17:39.677Z"
+      },
+      {
+        "id": "d8d61591-52d9-49ea-80b2-6bd25f1ae087",
+        "created_at": "2023-10-07T05:50:00.436Z",
+        "updated_at": "2023-10-07T13:52:13.186Z"
+      },
+      {
+        "id": "8d0f6748-0dae-423e-9b74-b1ac51207e2c",
+        "created_at": "2023-10-08T03:47:56.735Z",
+        "updated_at": "2023-10-08T02:03:58.171Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "40c5c782-ff89-4416-8687-31efddeb4488",
+        "created_at": "2023-10-07T12:47:02.897Z",
+        "updated_at": "2023-10-07T13:40:26.260Z"
+      },
+      {
+        "id": "2c71c5b8-7933-4b2d-a8af-64744e4aed34",
+        "created_at": "2023-10-07T16:24:31.852Z",
+        "updated_at": "2023-10-08T02:54:53.287Z"
+      },
+      {
+        "id": "a649842d-42eb-423a-9a09-588519ad066a",
+        "created_at": "2023-10-08T03:02:08.838Z",
+        "updated_at": "2023-10-07T10:05:45.095Z"
+      },
+      {
+        "id": "887eee58-fb9d-4c18-a375-2490149c061e",
+        "created_at": "2023-10-07T21:17:30.024Z",
+        "updated_at": "2023-10-07T20:13:20.880Z"
+      },
+      {
+        "id": "705a6d49-0eca-4ece-a724-3264f56a7d15",
+        "created_at": "2023-10-07T18:15:17.178Z",
+        "updated_at": "2023-10-08T02:51:09.833Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "b7a028d6-ebf3-4403-99f9-5d103bd0fdb6",
+        "created_at": "2023-10-07T22:26:46.622Z",
+        "updated_at": "2023-10-07T09:42:07.669Z"
+      },
+      {
+        "id": "746c5f29-1951-43f3-a0e5-032d91f35fce",
+        "created_at": "2023-10-07T09:15:37.338Z",
+        "updated_at": "2023-10-07T23:21:27.556Z"
+      },
+      {
+        "id": "0cc7c574-aa10-4a66-8ede-5a6606db19af",
+        "created_at": "2023-10-08T00:29:21.873Z",
+        "updated_at": "2023-10-08T03:32:49.759Z"
+      },
+      {
+        "id": "3222113e-32e7-4f88-bca4-99b09bc817d3",
+        "created_at": "2023-10-07T17:42:18.046Z",
+        "updated_at": "2023-10-07T09:44:12.267Z"
+      },
+      {
+        "id": "61612380-5b29-4133-addc-cdf1c3b12d5e",
+        "created_at": "2023-10-07T16:58:22.590Z",
+        "updated_at": "2023-10-07T16:25:48.316Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "65f918a1-30e6-46a4-9360-e40ad6c24561",
+        "created_at": "2023-10-07T19:43:29.087Z",
+        "updated_at": "2023-10-07T13:39:10.366Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Doe - 123-456-7890",
+        "employee_details": "Position: Manager"
+      },
+      {
+        "id": "08fd5e0b-c32e-4272-97da-b617e011cda7",
+        "created_at": "2023-10-08T00:12:57.570Z",
+        "updated_at": "2023-10-07T18:05:22.085Z",
+        "employee_status": "On Leave",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Smith - 987-654-3210",
+        "employee_details": "Position: Supervisor"
+      },
+      {
+        "id": "415af451-52e6-4c64-ab43-52d51cc696b3",
+        "created_at": "2023-10-07T13:52:14.892Z",
+        "updated_at": "2023-10-08T03:13:22.909Z",
+        "employee_status": "Terminated",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown - 456-789-1230",
+        "employee_details": "Position: Assistant"
+      },
+      {
+        "id": "1d70442d-3e71-42bf-b0ae-2f9d3a0ffd04",
+        "created_at": "2023-10-07T12:51:39.644Z",
+        "updated_at": "2023-10-07T10:02:50.589Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones - 789-123-4560",
+        "employee_details": "Position: Analyst"
+      },
+      {
+        "id": "35ddc4d0-2ebd-4bff-b333-3770a5c19aae",
+        "created_at": "2023-10-07T22:57:13.395Z",
+        "updated_at": "2023-10-07T06:50:37.472Z",
+        "employee_status": "Suspended",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson - 321-654-9870",
+        "employee_details": "Position: Clerk"
+      }
+    ],
+    "department": [
+      {
+        "id": "bb52aee7-1d54-4a19-8832-ce7ea085677e",
+        "created_at": "2023-10-08T01:20:31.062Z",
+        "updated_at": "2023-10-08T04:16:38.792Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a3202b5-b307-44fe-b88f-d0c693a34786",
+        "created_at": "2023-10-07T06:20:54.861Z",
+        "updated_at": "2023-10-07T10:00:04.916Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53941255-b0df-4c88-92c8-de8d7b87f1e8",
+        "created_at": "2023-10-07T17:50:12.814Z",
+        "updated_at": "2023-10-08T00:48:35.038Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b97e27a1-4d67-443c-999c-74fea314463c",
+        "created_at": "2023-10-07T16:50:12.869Z",
+        "updated_at": "2023-10-07T18:13:22.269Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d045b48c-d8b5-4fa1-bad7-62b6aaf6edef",
+        "created_at": "2023-10-07T15:53:20.477Z",
+        "updated_at": "2023-10-07T18:26:17.449Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "978da6bb-9aa2-4885-b3ac-ee7438cd08a9",
+        "created_at": "2023-10-07T06:46:08.733Z",
+        "updated_at": "2023-10-07T20:49:57.558Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61376734-6bf8-4a4f-beb1-82036b28a6d4",
+        "created_at": "2023-10-07T06:05:19.499Z",
+        "updated_at": "2023-10-07T18:18:15.583Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "863a5804-0e78-40ef-83f9-6ffa63ca46b6",
+        "created_at": "2023-10-07T06:14:17.144Z",
+        "updated_at": "2023-10-07T10:39:30.470Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d03486ce-80ad-40c0-ab72-b24a6b71d9a9",
+        "created_at": "2023-10-07T11:50:45.852Z",
+        "updated_at": "2023-10-07T18:04:28.753Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f864b827-acd5-4aaa-8f57-53c350e63d30",
+        "created_at": "2023-10-07T21:50:52.407Z",
+        "updated_at": "2023-10-08T01:45:37.889Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "ed80671a-f5a0-46fb-97cc-7c2ab70c6bd8",
+        "created_at": "2023-10-07T21:45:45.550Z",
+        "updated_at": "2023-10-07T15:51:55.377Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "685a6363-790e-497d-ba76-6a8c9f35eb72",
+        "created_at": "2023-10-08T03:41:42.976Z",
+        "updated_at": "2023-10-07T14:51:01.608Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4544e257-c76d-46a4-972e-6003e60407e9",
+        "created_at": "2023-10-08T03:26:08.491Z",
+        "updated_at": "2023-10-07T14:48:38.575Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1692509a-4f00-4ea6-bfc5-3a40723d8833",
+        "created_at": "2023-10-07T15:04:50.766Z",
+        "updated_at": "2023-10-07T22:00:30.854Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "784cbb17-8f49-4eba-b46e-d2dcaa267318",
+        "created_at": "2023-10-07T23:09:57.413Z",
+        "updated_at": "2023-10-07T21:47:36.156Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "df6068d8-b7b3-4ca8-becd-b07430f5afd2",
+        "email": "Watson36@roq.tech",
+        "firstName": "Laurie",
+        "lastName": "Bednar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/443.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a30a273e-e148-4f5e-a27f-5a7bbced5fc1",
+        "email": "Andres_Baumbach@roq.tech",
+        "firstName": "Eloy",
+        "lastName": "Heller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/821.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4a0f40f7-7ed2-4433-a9b9-49ca76561d71",
+        "email": "Ena55@roq.tech",
+        "firstName": "Carleton",
+        "lastName": "Hand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1226.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5b453e34-933c-40bf-9afa-14dc4a9d6eb2",
+        "email": "Luciano_Buckridge42@roq.tech",
+        "firstName": "Reese",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38384981",
+        "tenantId": null
+      },
+      {
+        "reference": "d9307ab7-aa05-4ef4-b7fe-e4379912d3b1",
+        "email": "Devyn7@roq.tech",
+        "firstName": "Cora",
+        "lastName": "Becker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/860.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "be7eabc0-0b71-4b91-a671-5b08fe48c8de",
+        "created_at": "2023-10-07T21:58:06.496Z",
+        "updated_at": "2023-10-07T18:06:17.487Z"
+      },
+      {
+        "id": "2792dc96-ef7d-42be-ac9d-31a142f7ab15",
+        "created_at": "2023-10-07T19:16:45.486Z",
+        "updated_at": "2023-10-07T18:29:40.357Z"
+      },
+      {
+        "id": "e33c9afb-dd08-4db1-a6d5-b3d0172c4efd",
+        "created_at": "2023-10-07T15:26:35.224Z",
+        "updated_at": "2023-10-08T02:14:25.545Z"
+      },
+      {
+        "id": "19f0d814-fc01-480b-88b4-84833a89a0e7",
+        "created_at": "2023-10-07T05:31:18.940Z",
+        "updated_at": "2023-10-07T20:18:17.558Z"
+      },
+      {
+        "id": "4813bea3-6d6e-42bf-9905-259104bbd4fb",
+        "created_at": "2023-10-07T10:38:29.792Z",
+        "updated_at": "2023-10-07T11:09:51.459Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "1b6125f0-c35a-4bf7-8bf2-8f6b81450129",
+        "created_at": "2023-10-07T21:52:18.254Z",
+        "updated_at": "2023-10-07T18:04:38.349Z"
+      },
+      {
+        "id": "2c5d819f-d246-405a-ae4e-e93aa11fcddd",
+        "created_at": "2023-10-07T12:49:07.944Z",
+        "updated_at": "2023-10-07T17:33:25.119Z"
+      },
+      {
+        "id": "ea1977d4-02f1-4057-b2a9-d8e7dc09c2a8",
+        "created_at": "2023-10-08T00:11:27.107Z",
+        "updated_at": "2023-10-07T09:21:57.115Z"
+      },
+      {
+        "id": "f3834f60-3358-4ce1-9114-037bffa0fa47",
+        "created_at": "2023-10-07T11:24:53.653Z",
+        "updated_at": "2023-10-07T13:49:37.015Z"
+      },
+      {
+        "id": "5e1ac697-1309-4d3e-9c1c-95373cdcd507",
+        "created_at": "2023-10-07T05:17:12.139Z",
+        "updated_at": "2023-10-07T08:09:34.615Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "c2fce6c8-e679-463a-b145-6fbf2cbd54eb",
+        "created_at": "2023-10-08T04:20:24.778Z",
+        "updated_at": "2023-10-07T19:23:43.541Z"
+      },
+      {
+        "id": "ab291d7c-b81a-47ab-bbc9-4ef30b31990c",
+        "created_at": "2023-10-07T07:30:39.636Z",
+        "updated_at": "2023-10-08T00:53:23.987Z"
+      },
+      {
+        "id": "47947e87-57fe-410e-916b-24a84dc2c511",
+        "created_at": "2023-10-07T11:02:58.908Z",
+        "updated_at": "2023-10-08T00:05:32.065Z"
+      },
+      {
+        "id": "2569b247-f81c-479e-b521-e286a8611c25",
+        "created_at": "2023-10-07T06:04:27.335Z",
+        "updated_at": "2023-10-07T04:45:03.683Z"
+      },
+      {
+        "id": "16ffdb83-7d63-40e6-8672-5fbbea05bedb",
+        "created_at": "2023-10-07T08:56:56.592Z",
+        "updated_at": "2023-10-07T14:34:27.230Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "a0ab91f4-daa8-42c1-918d-b683df78c869",
+        "created_at": "2023-10-07T15:34:25.208Z",
+        "updated_at": "2023-10-08T02:46:37.057Z"
+      },
+      {
+        "id": "01643c00-fa49-4e33-a162-2af1c16a0fb8",
+        "created_at": "2023-10-07T09:25:51.281Z",
+        "updated_at": "2023-10-07T19:27:07.934Z"
+      },
+      {
+        "id": "35ffd23b-6334-47ba-a0bf-032488096608",
+        "created_at": "2023-10-07T07:31:32.319Z",
+        "updated_at": "2023-10-07T04:47:18.594Z"
+      },
+      {
+        "id": "b511a480-6007-40ee-994d-b7d159ce7865",
+        "created_at": "2023-10-07T22:54:42.617Z",
+        "updated_at": "2023-10-07T06:40:35.274Z"
+      },
+      {
+        "id": "7fe333c6-3794-4783-a794-2ffd00ae043e",
+        "created_at": "2023-10-07T23:00:11.973Z",
+        "updated_at": "2023-10-07T11:53:13.096Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "91c9db6d-d608-4b02-b039-359fd9ab3f8c",
+        "created_at": "2023-10-07T20:38:26.798Z",
+        "updated_at": "2023-10-07T10:54:14.710Z"
+      },
+      {
+        "id": "e8b22a5e-142f-43ab-aa63-62093857c90e",
+        "created_at": "2023-10-07T06:07:14.801Z",
+        "updated_at": "2023-10-08T03:38:34.909Z"
+      },
+      {
+        "id": "9ada7083-69fe-4094-a22c-a2cd132fadac",
+        "created_at": "2023-10-07T14:17:46.636Z",
+        "updated_at": "2023-10-07T19:06:38.450Z"
+      },
+      {
+        "id": "75cbd69c-813a-4bcd-b9e4-b392d136e1fa",
+        "created_at": "2023-10-07T22:12:32.634Z",
+        "updated_at": "2023-10-08T02:52:17.590Z"
+      },
+      {
+        "id": "78ab35e2-f0d0-4868-a6e7-47036f443cd1",
+        "created_at": "2023-10-07T08:48:13.424Z",
+        "updated_at": "2023-10-07T07:54:42.136Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "fa3b9ef4-5d91-44cc-b59a-cf1aaa3f5534",
+        "created_at": "2023-10-08T04:16:13.007Z",
+        "updated_at": "2023-10-07T09:32:47.397Z"
+      },
+      {
+        "id": "fa953109-ed8f-4f95-86c7-14659975e9b8",
+        "created_at": "2023-10-07T22:12:54.655Z",
+        "updated_at": "2023-10-07T19:01:10.695Z"
+      },
+      {
+        "id": "36a99373-3cc0-4d4f-af49-f13518d1afc4",
+        "created_at": "2023-10-07T19:28:19.821Z",
+        "updated_at": "2023-10-07T08:59:32.935Z"
+      },
+      {
+        "id": "1f48b908-0ad1-4095-88cd-616dde90fe38",
+        "created_at": "2023-10-07T10:10:00.921Z",
+        "updated_at": "2023-10-07T20:37:29.673Z"
+      },
+      {
+        "id": "f56cdbe1-e03f-4c04-b87c-d15a097c6942",
+        "created_at": "2023-10-07T05:34:08.702Z",
+        "updated_at": "2023-10-07T10:09:30.367Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "461c4e0d-19e2-40ec-80c8-3883849558b8",
+        "created_at": "2023-10-07T15:04:46.065Z",
+        "updated_at": "2023-10-07T17:42:53.621Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Smith (555) 123-4567",
+        "employee_details": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "id": "6a41bff5-0d4f-4c83-90c0-79deb85d508d",
+        "created_at": "2023-10-07T10:41:39.267Z",
+        "updated_at": "2023-10-08T00:31:24.264Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Doe (555) 987-6543",
+        "employee_details": "Consectetur adipiscing elit"
+      },
+      {
+        "id": "e62eafc1-5bed-4e28-a00f-69c3d9ce96d0",
+        "created_at": "2023-10-07T15:52:37.539Z",
+        "updated_at": "2023-10-08T00:22:13.359Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown (555) 678-9012",
+        "employee_details": "Sed do eiusmod tempor incididunt"
+      },
+      {
+        "id": "111a82d2-bb55-4d5a-9141-bc4b17d4a26a",
+        "created_at": "2023-10-07T14:46:12.704Z",
+        "updated_at": "2023-10-08T01:13:34.027Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones (555) 345-6789",
+        "employee_details": "Ut labore et dolore magna aliqua"
+      },
+      {
+        "id": "f0d0333e-f93f-4bcb-bdcb-a5dd0803b7fd",
+        "created_at": "2023-10-08T02:35:25.059Z",
+        "updated_at": "2023-10-07T10:26:15.983Z",
+        "employee_status": "Suspended",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson (555) 890-1234",
+        "employee_details": "Ut enim ad minim veniam"
+      }
+    ],
+    "department": [
+      {
+        "id": "eaf16134-9d60-4bcb-9480-1decaaaca41e",
+        "created_at": "2023-10-08T03:24:20.795Z",
+        "updated_at": "2023-10-07T20:30:25.104Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb2c7fbf-63e5-4175-978f-215e07dc7cb7",
+        "created_at": "2023-10-07T11:46:33.082Z",
+        "updated_at": "2023-10-08T04:22:42.677Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09c37a0a-c772-454a-a5ef-95e147c25d9f",
+        "created_at": "2023-10-07T06:17:12.548Z",
+        "updated_at": "2023-10-07T06:11:04.722Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f4a7607-deb7-4814-afd6-7f7379571ec1",
+        "created_at": "2023-10-07T11:58:06.967Z",
+        "updated_at": "2023-10-07T11:53:41.879Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "37d187ad-7332-476d-8e42-5a6edafb5ad1",
+        "created_at": "2023-10-07T22:12:34.661Z",
+        "updated_at": "2023-10-08T01:47:15.850Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "cdcc1549-7e88-468f-936d-cf8b01e32616",
+        "created_at": "2023-10-07T22:04:14.550Z",
+        "updated_at": "2023-10-07T13:16:58.095Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ab6cd18-f814-49e6-b2e5-488483cbddb9",
+        "created_at": "2023-10-07T23:26:23.759Z",
+        "updated_at": "2023-10-07T10:53:27.134Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe5bdd26-b2b7-4b3c-b430-2751e28dcfe5",
+        "created_at": "2023-10-07T14:57:48.348Z",
+        "updated_at": "2023-10-07T23:44:44.660Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2240b1ed-469d-4262-8a27-a15e787e00be",
+        "created_at": "2023-10-07T11:19:10.996Z",
+        "updated_at": "2023-10-07T05:00:15.486Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3676473-bd7e-47a4-bf11-ecbc973aced0",
+        "created_at": "2023-10-07T08:10:06.434Z",
+        "updated_at": "2023-10-07T07:42:26.509Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "2ce963d3-acba-46cb-862a-bd9ab591a647",
+        "created_at": "2023-10-08T02:19:41.604Z",
+        "updated_at": "2023-10-07T22:16:21.553Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ca04f6f-0fba-495b-9f7b-f357bd71d3a4",
+        "created_at": "2023-10-07T17:07:02.823Z",
+        "updated_at": "2023-10-07T08:53:22.557Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c7909ee-9869-4465-a499-3b736b9e95ab",
+        "created_at": "2023-10-07T16:42:03.221Z",
+        "updated_at": "2023-10-08T01:54:46.751Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22cfbd5a-97a6-491e-add9-5e1e19732094",
+        "created_at": "2023-10-07T07:58:09.597Z",
+        "updated_at": "2023-10-07T23:43:15.333Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bc90c12-0079-423f-8073-66dab78b85e3",
+        "created_at": "2023-10-08T00:06:28.385Z",
+        "updated_at": "2023-10-07T06:35:49.389Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "50620452-12fc-4bbb-94a9-92b7dd892923",
+        "email": "Anahi_Prosacco@roq.tech",
+        "firstName": "Amely",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1151.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7de5de78-3885-45fc-a6bd-b061d7a53a65",
+        "email": "Dallin.Barrows@roq.tech",
+        "firstName": "Raphael",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/98.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0154ffda-94d3-4d69-bee8-13dd21cb7618",
+        "email": "Mose_Halvorson@roq.tech",
+        "firstName": "Barton",
+        "lastName": "Blick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/75.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "469cf792-f5e5-448c-899e-a812aa1f504a",
+        "email": "Rae99@roq.tech",
+        "firstName": "Charles",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33974400",
+        "tenantId": null
+      },
+      {
+        "reference": "1a668487-fdcc-4429-acfb-73826c8c3c18",
+        "email": "Marion_Goyette52@roq.tech",
+        "firstName": "Laurie",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/238.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "f4b2e83c-a07d-4ad3-9947-de8cf2374820",
+        "created_at": "2023-10-07T05:47:52.091Z",
+        "updated_at": "2023-10-08T03:11:13.910Z"
+      },
+      {
+        "id": "1255e174-1b15-4a51-bd0a-4134ff9f3e3f",
+        "created_at": "2023-10-07T12:55:13.558Z",
+        "updated_at": "2023-10-07T23:30:35.953Z"
+      },
+      {
+        "id": "9cf53dd5-f19f-476f-863c-926f32a6e5f8",
+        "created_at": "2023-10-07T10:55:56.089Z",
+        "updated_at": "2023-10-07T23:59:50.363Z"
+      },
+      {
+        "id": "79c5a510-8ea8-4bb5-b256-086023b478ce",
+        "created_at": "2023-10-08T02:48:24.799Z",
+        "updated_at": "2023-10-08T04:32:03.826Z"
+      },
+      {
+        "id": "9ffc5a68-4bc5-4389-bdae-958029076d06",
+        "created_at": "2023-10-07T13:57:08.976Z",
+        "updated_at": "2023-10-07T05:36:57.077Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "ff7b31c7-bf72-4a1d-9887-a60347a9bcdd",
+        "created_at": "2023-10-07T05:12:19.609Z",
+        "updated_at": "2023-10-07T19:55:01.443Z"
+      },
+      {
+        "id": "490a6898-5b7b-4750-8c1b-2b630686098f",
+        "created_at": "2023-10-07T12:05:24.727Z",
+        "updated_at": "2023-10-07T23:12:22.620Z"
+      },
+      {
+        "id": "0123faa5-8476-45b6-880a-b5e4a19d0899",
+        "created_at": "2023-10-07T09:27:12.507Z",
+        "updated_at": "2023-10-07T22:20:10.773Z"
+      },
+      {
+        "id": "80d9a2b8-54fc-4964-8991-96fc64954eaa",
+        "created_at": "2023-10-07T09:11:12.376Z",
+        "updated_at": "2023-10-08T04:42:36.684Z"
+      },
+      {
+        "id": "38ecda35-9080-449c-bce2-ea4451e99e4c",
+        "created_at": "2023-10-08T02:00:18.221Z",
+        "updated_at": "2023-10-07T12:15:14.948Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "859904a5-2cee-47a2-a8d2-a6fa082c5cad",
+        "created_at": "2023-10-07T16:47:41.970Z",
+        "updated_at": "2023-10-07T05:39:18.256Z"
+      },
+      {
+        "id": "c448ac12-9116-427d-b752-be155068af7e",
+        "created_at": "2023-10-07T06:28:53.845Z",
+        "updated_at": "2023-10-07T18:53:34.478Z"
+      },
+      {
+        "id": "71bb7088-b800-4296-9aaf-4849ee616b9e",
+        "created_at": "2023-10-07T09:35:51.788Z",
+        "updated_at": "2023-10-07T05:30:32.368Z"
+      },
+      {
+        "id": "26f97ad8-d63f-445d-83e8-984bc3517730",
+        "created_at": "2023-10-08T04:27:21.619Z",
+        "updated_at": "2023-10-07T16:56:53.922Z"
+      },
+      {
+        "id": "9981fe28-0a55-4e36-8d31-7741ea5962a3",
+        "created_at": "2023-10-07T05:15:38.021Z",
+        "updated_at": "2023-10-08T01:58:38.671Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "1b80e353-658e-4e70-9cba-885373693a2b",
+        "created_at": "2023-10-07T13:52:23.828Z",
+        "updated_at": "2023-10-07T18:20:52.287Z"
+      },
+      {
+        "id": "0d53e3d2-13ad-470f-9ddb-6f6841339c38",
+        "created_at": "2023-10-07T15:54:50.403Z",
+        "updated_at": "2023-10-07T19:51:46.331Z"
+      },
+      {
+        "id": "6927aa74-10a1-41a2-a903-0e0c9674a441",
+        "created_at": "2023-10-07T12:32:17.376Z",
+        "updated_at": "2023-10-07T20:01:08.023Z"
+      },
+      {
+        "id": "b22ee26b-f49a-484d-a1e6-bf5c5ab20988",
+        "created_at": "2023-10-07T09:57:24.748Z",
+        "updated_at": "2023-10-07T13:46:02.982Z"
+      },
+      {
+        "id": "1ac5693a-2b62-4c6d-b544-14e2925317bb",
+        "created_at": "2023-10-07T09:53:47.774Z",
+        "updated_at": "2023-10-07T21:28:50.890Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "a4ba287d-b0e6-437f-9271-584026a0f8bc",
+        "created_at": "2023-10-07T22:27:37.056Z",
+        "updated_at": "2023-10-08T03:29:28.276Z"
+      },
+      {
+        "id": "24cc9102-8c8c-44e8-996e-36547fe64886",
+        "created_at": "2023-10-08T02:44:26.565Z",
+        "updated_at": "2023-10-08T01:05:33.023Z"
+      },
+      {
+        "id": "916dff1c-735f-42b8-b54b-11c572b5bbed",
+        "created_at": "2023-10-07T22:52:26.354Z",
+        "updated_at": "2023-10-08T01:16:08.812Z"
+      },
+      {
+        "id": "6a8bc50c-c4b5-47da-b7fb-c6bbcc7a1411",
+        "created_at": "2023-10-07T19:23:43.201Z",
+        "updated_at": "2023-10-07T20:47:53.920Z"
+      },
+      {
+        "id": "06392d78-e670-4114-ad47-b28a74df7032",
+        "created_at": "2023-10-07T23:08:27.384Z",
+        "updated_at": "2023-10-08T04:07:31.214Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "ed4f7f30-3eff-4422-9319-8f7499b73f2a",
+        "created_at": "2023-10-08T01:30:01.784Z",
+        "updated_at": "2023-10-07T18:29:17.428Z"
+      },
+      {
+        "id": "9e0f0030-bc30-4613-bc7c-c99377b05414",
+        "created_at": "2023-10-07T16:08:42.602Z",
+        "updated_at": "2023-10-07T09:55:02.148Z"
+      },
+      {
+        "id": "df9160f9-a4c4-48b3-894c-86515ce199e3",
+        "created_at": "2023-10-07T15:30:13.086Z",
+        "updated_at": "2023-10-07T13:25:22.094Z"
+      },
+      {
+        "id": "9dcfd67c-65e6-4a27-b53e-81f03062c98d",
+        "created_at": "2023-10-07T13:53:35.956Z",
+        "updated_at": "2023-10-07T22:49:06.815Z"
+      },
+      {
+        "id": "0671a24a-cff6-4568-ab68-307e54bd6685",
+        "created_at": "2023-10-07T14:58:25.863Z",
+        "updated_at": "2023-10-07T16:33:20.249Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "3b2db0b0-d706-48bf-ae73-4aa7cd8ac537",
+        "created_at": "2023-10-08T03:13:04.811Z",
+        "updated_at": "2023-10-07T16:23:17.815Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Doe - 123-456-7890",
+        "employee_details": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "id": "387a8c97-664b-411f-a06e-524cc9d5444a",
+        "created_at": "2023-10-07T23:00:47.862Z",
+        "updated_at": "2023-10-07T06:25:37.338Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Smith - 987-654-3210",
+        "employee_details": "Consectetur adipiscing elit"
+      },
+      {
+        "id": "cddb88fa-5e35-499d-85d1-26ed5e165171",
+        "created_at": "2023-10-08T00:41:16.818Z",
+        "updated_at": "2023-10-07T20:15:06.288Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown - 555-123-4567",
+        "employee_details": "Sed do eiusmod tempor incididunt"
+      },
+      {
+        "id": "7247316c-cec7-4232-a917-ba1040f40fc9",
+        "created_at": "2023-10-08T04:13:50.570Z",
+        "updated_at": "2023-10-07T22:58:00.412Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones - 888-555-1234",
+        "employee_details": "Ut labore et dolore magna aliqua"
+      },
+      {
+        "id": "7dfb1fe8-8e14-4195-9ee5-bbbcac668d95",
+        "created_at": "2023-10-07T06:38:09.057Z",
+        "updated_at": "2023-10-07T09:56:09.243Z",
+        "employee_status": "Terminated",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson - 444-789-0123",
+        "employee_details": "Ut enim ad minim veniam"
+      }
+    ],
+    "department": [
+      {
+        "id": "f62d9453-4865-4f67-a652-3afe7f1e0061",
+        "created_at": "2023-10-07T11:37:40.072Z",
+        "updated_at": "2023-10-07T08:19:15.931Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e07bf60c-dbf2-48d9-a449-df7ca6410111",
+        "created_at": "2023-10-07T06:52:21.934Z",
+        "updated_at": "2023-10-07T07:06:07.525Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "619a5b92-9f0c-4b3a-9bd7-cd9377517eb1",
+        "created_at": "2023-10-07T19:33:17.441Z",
+        "updated_at": "2023-10-08T02:25:55.657Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45549c38-bc2e-4848-98c1-0787225e38d0",
+        "created_at": "2023-10-07T22:51:55.200Z",
+        "updated_at": "2023-10-08T00:59:55.922Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e6b2056-887a-4085-a16d-e4a4e0802f4a",
+        "created_at": "2023-10-07T14:21:51.013Z",
+        "updated_at": "2023-10-07T07:12:54.933Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "542c8bce-1050-471f-9a42-220403a82b82",
+        "created_at": "2023-10-08T00:51:37.717Z",
+        "updated_at": "2023-10-07T11:28:12.465Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a52d6d7-cbb7-49e9-ad0d-c59853c9a28f",
+        "created_at": "2023-10-07T11:24:24.991Z",
+        "updated_at": "2023-10-07T06:08:47.067Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f2bbe06-9da1-42af-a98b-5732f33ada99",
+        "created_at": "2023-10-07T07:25:39.517Z",
+        "updated_at": "2023-10-07T12:14:45.834Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d3394ea-9ecc-4099-ae6b-51e871c9349b",
+        "created_at": "2023-10-07T15:59:51.666Z",
+        "updated_at": "2023-10-07T12:02:12.553Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72102a4e-7cf3-4b39-9d96-f3cc5032a2de",
+        "created_at": "2023-10-07T16:07:41.483Z",
+        "updated_at": "2023-10-08T01:41:02.034Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "0c6c5f2f-7935-463d-82ce-86d23e725181",
+        "created_at": "2023-10-07T19:21:19.501Z",
+        "updated_at": "2023-10-07T09:20:24.380Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f254adc-f907-40a3-a979-09a579b3b1fc",
+        "created_at": "2023-10-07T07:50:13.000Z",
+        "updated_at": "2023-10-07T21:31:02.262Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56242024-537b-44cd-9e3c-5ef569251c4b",
+        "created_at": "2023-10-07T21:47:45.046Z",
+        "updated_at": "2023-10-07T08:40:54.122Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23c2232b-0b07-4f5c-8dde-a5c9936f8537",
+        "created_at": "2023-10-07T23:48:48.450Z",
+        "updated_at": "2023-10-07T07:19:31.606Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3470ab21-2e1e-4030-9442-9073a581526e",
+        "created_at": "2023-10-07T15:39:35.845Z",
+        "updated_at": "2023-10-07T11:42:48.357Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0eaa04e6-bd08-4a7c-a77b-32c465089ca6",
+        "email": "Orie_Jenkins@roq.tech",
+        "firstName": "Tyra",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9056090",
+        "tenantId": null
+      },
+      {
+        "reference": "a113fcda-4ab8-438e-a6f9-bfa483a1f198",
+        "email": "Marcelo84@roq.tech",
+        "firstName": "Augustine",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/426734",
+        "tenantId": null
+      },
+      {
+        "reference": "c3308bf2-6839-4587-a1bb-13db61d3c525",
+        "email": "Tillman_Nikolaus@roq.tech",
+        "firstName": "Jess",
+        "lastName": "Spencer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10559212",
+        "tenantId": null
+      },
+      {
+        "reference": "c71c8b6d-3232-43b1-8cd7-7c99bb3003ab",
+        "email": "Zelma_Jast@roq.tech",
+        "firstName": "Elmore",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1141.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6baf2902-15f9-49dd-a00a-6b7edfbc6bf7",
+        "email": "Humberto.Beier@roq.tech",
+        "firstName": "Ian",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29443326",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "0dd2f458-bfb2-4eac-b95c-3fee3eb8e2ff",
+        "created_at": "2023-10-07T15:11:15.608Z",
+        "updated_at": "2023-10-07T20:48:57.005Z"
+      },
+      {
+        "id": "fc5018e6-4047-4271-9af8-9ed516713f8d",
+        "created_at": "2023-10-07T21:45:18.909Z",
+        "updated_at": "2023-10-07T20:33:06.730Z"
+      },
+      {
+        "id": "75abb87d-25e5-4bbb-ac65-44a45647492a",
+        "created_at": "2023-10-07T09:22:16.602Z",
+        "updated_at": "2023-10-07T10:22:45.301Z"
+      },
+      {
+        "id": "9028e1aa-02f3-4e50-8ab2-c363215e5a7b",
+        "created_at": "2023-10-08T01:00:39.312Z",
+        "updated_at": "2023-10-08T00:48:04.240Z"
+      },
+      {
+        "id": "000b34e9-7dc4-4c14-8e1a-6d168c84e430",
+        "created_at": "2023-10-07T17:41:18.430Z",
+        "updated_at": "2023-10-07T05:39:09.142Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "b2f3b5a8-d331-421e-8ddc-63c111d5bba3",
+        "created_at": "2023-10-08T03:06:25.391Z",
+        "updated_at": "2023-10-07T16:35:53.819Z"
+      },
+      {
+        "id": "87eaecae-5dab-47e3-95f7-c625a5399b61",
+        "created_at": "2023-10-07T17:52:18.137Z",
+        "updated_at": "2023-10-07T13:49:52.858Z"
+      },
+      {
+        "id": "4dc0c866-3582-4c72-975a-3218a93f6aee",
+        "created_at": "2023-10-07T14:52:24.832Z",
+        "updated_at": "2023-10-08T03:46:09.269Z"
+      },
+      {
+        "id": "a762321c-316f-4917-a736-49875e243b7f",
+        "created_at": "2023-10-08T01:42:46.848Z",
+        "updated_at": "2023-10-08T01:53:42.820Z"
+      },
+      {
+        "id": "6a8a25e2-bcf0-411d-9afb-32ef5e5aa1eb",
+        "created_at": "2023-10-07T20:56:40.039Z",
+        "updated_at": "2023-10-07T19:56:44.940Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "a4ce50e6-d394-4254-83c4-411b4ef103de",
+        "created_at": "2023-10-07T20:14:54.138Z",
+        "updated_at": "2023-10-07T20:08:22.752Z"
+      },
+      {
+        "id": "89b12d8e-0342-4848-930a-55d518cd01b3",
+        "created_at": "2023-10-07T15:18:00.438Z",
+        "updated_at": "2023-10-07T12:10:01.019Z"
+      },
+      {
+        "id": "cc160eaf-667d-42a7-b4f8-f21550332dba",
+        "created_at": "2023-10-07T21:19:47.217Z",
+        "updated_at": "2023-10-07T12:46:37.732Z"
+      },
+      {
+        "id": "f0884393-8ae1-452f-9523-e3e7e8774102",
+        "created_at": "2023-10-07T19:33:03.660Z",
+        "updated_at": "2023-10-08T04:07:57.541Z"
+      },
+      {
+        "id": "fcf111e9-295d-4b9b-9ea4-05d52931b2e8",
+        "created_at": "2023-10-07T06:14:06.180Z",
+        "updated_at": "2023-10-07T12:25:38.208Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "a568da79-3a2d-407a-9b46-097e390a769c",
+        "created_at": "2023-10-07T08:46:44.600Z",
+        "updated_at": "2023-10-07T11:54:57.293Z"
+      },
+      {
+        "id": "06a7951e-8fb4-49dc-a333-a6861a829612",
+        "created_at": "2023-10-07T17:55:12.937Z",
+        "updated_at": "2023-10-08T01:53:23.833Z"
+      },
+      {
+        "id": "2a7aee24-b96d-407b-abc1-11059991713e",
+        "created_at": "2023-10-08T03:19:29.443Z",
+        "updated_at": "2023-10-07T18:28:29.586Z"
+      },
+      {
+        "id": "d08dc7c4-424f-4437-91cf-00b072fd2a3f",
+        "created_at": "2023-10-07T17:00:19.718Z",
+        "updated_at": "2023-10-07T16:11:16.914Z"
+      },
+      {
+        "id": "dc25c5ef-33d6-4415-97e4-9c1dce91be76",
+        "created_at": "2023-10-07T19:53:26.968Z",
+        "updated_at": "2023-10-07T18:45:09.275Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "f17d7ad0-b197-4f7c-8c67-562d3b99d1b0",
+        "created_at": "2023-10-07T14:31:33.673Z",
+        "updated_at": "2023-10-08T04:15:37.801Z"
+      },
+      {
+        "id": "34f3555f-16bf-4b51-9e4d-3dd269a46eef",
+        "created_at": "2023-10-07T12:35:36.510Z",
+        "updated_at": "2023-10-07T22:49:27.253Z"
+      },
+      {
+        "id": "526c2f56-aa72-41fb-a885-c94f46e577bf",
+        "created_at": "2023-10-07T20:08:14.513Z",
+        "updated_at": "2023-10-07T07:03:00.108Z"
+      },
+      {
+        "id": "697601e6-2cf3-479f-8d29-f590da7458a2",
+        "created_at": "2023-10-07T16:05:10.944Z",
+        "updated_at": "2023-10-07T09:50:27.884Z"
+      },
+      {
+        "id": "b611b8f1-72f2-4ee1-8966-bef9e98749bf",
+        "created_at": "2023-10-07T09:53:19.757Z",
+        "updated_at": "2023-10-08T01:14:37.552Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "4951d122-52f7-4ae4-86bd-7101445a5487",
+        "created_at": "2023-10-08T02:42:25.005Z",
+        "updated_at": "2023-10-07T13:41:28.698Z"
+      },
+      {
+        "id": "4448e6e6-4c4b-4f6c-bd1c-66dd99477cc0",
+        "created_at": "2023-10-07T17:55:27.684Z",
+        "updated_at": "2023-10-07T07:55:38.669Z"
+      },
+      {
+        "id": "4366e5bd-ca43-4e4d-8bb3-b889554daac6",
+        "created_at": "2023-10-08T03:27:41.012Z",
+        "updated_at": "2023-10-08T03:03:24.774Z"
+      },
+      {
+        "id": "f4047c42-f217-4c7b-ac1b-567463efde72",
+        "created_at": "2023-10-08T02:10:59.050Z",
+        "updated_at": "2023-10-07T09:51:26.374Z"
+      },
+      {
+        "id": "3839cae6-b7cc-4068-8eb9-c72740157126",
+        "created_at": "2023-10-08T02:20:26.008Z",
+        "updated_at": "2023-10-08T03:26:38.495Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "42f143d8-9645-4481-ace7-8df28cf65f17",
+        "created_at": "2023-10-07T05:50:18.230Z",
+        "updated_at": "2023-10-07T20:26:59.501Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Doe - 123-456-7890",
+        "employee_details": "Manager"
+      },
+      {
+        "id": "b3006955-f972-4dc5-abb3-aafe19224640",
+        "created_at": "2023-10-07T12:13:19.576Z",
+        "updated_at": "2023-10-07T11:34:10.859Z",
+        "employee_status": "On Leave",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Smith - 987-654-3210",
+        "employee_details": "Supervisor"
+      },
+      {
+        "id": "c56b7bf7-283e-475f-a9b0-319eeb24c731",
+        "created_at": "2023-10-07T10:45:16.628Z",
+        "updated_at": "2023-10-07T14:36:28.533Z",
+        "employee_status": "Terminated",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown - 456-789-1230",
+        "employee_details": "Team Lead"
+      },
+      {
+        "id": "0d9669b1-37d5-4318-8fb3-f397adbe1268",
+        "created_at": "2023-10-07T09:03:50.487Z",
+        "updated_at": "2023-10-07T06:55:25.215Z",
+        "employee_status": "Suspended",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones - 789-123-4560",
+        "employee_details": "Developer"
+      },
+      {
+        "id": "d0f4c950-74b9-4f5d-92fe-9f4ada927a10",
+        "created_at": "2023-10-08T00:39:08.169Z",
+        "updated_at": "2023-10-07T13:23:54.880Z",
+        "employee_status": "Retired",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson - 321-654-9870",
+        "employee_details": "Analyst"
+      }
+    ],
+    "department": [
+      {
+        "id": "483e3053-df0d-4e77-b11c-05111934cb61",
+        "created_at": "2023-10-08T00:35:11.026Z",
+        "updated_at": "2023-10-07T13:02:23.096Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30865924-9baa-4b29-8836-d360138f79a6",
+        "created_at": "2023-10-08T03:18:02.377Z",
+        "updated_at": "2023-10-07T23:18:45.531Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89cebfd2-303e-48d7-812a-0cff039622ea",
+        "created_at": "2023-10-08T03:45:04.653Z",
+        "updated_at": "2023-10-07T06:37:50.648Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ca2662a-8fbc-41dd-87e8-2dba4959ef25",
+        "created_at": "2023-10-07T13:09:15.209Z",
+        "updated_at": "2023-10-07T05:48:30.882Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f41d5e2f-8dae-41ec-96cd-1fb9c5fe2b41",
+        "created_at": "2023-10-07T15:33:11.545Z",
+        "updated_at": "2023-10-07T17:49:20.061Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "885fd901-be97-434d-b3ee-afccbb56d8e8",
+        "created_at": "2023-10-07T08:48:24.226Z",
+        "updated_at": "2023-10-07T17:31:57.526Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f290a0be-e23a-4f79-aa3d-8e2e37aa0845",
+        "created_at": "2023-10-07T23:49:44.012Z",
+        "updated_at": "2023-10-07T22:34:29.986Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c4cd177-d549-47a5-8bbf-dc99a7b3bc9c",
+        "created_at": "2023-10-07T08:44:07.821Z",
+        "updated_at": "2023-10-07T05:05:46.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f62e5646-9678-46d9-9b6e-5e7d4285388e",
+        "created_at": "2023-10-07T19:03:54.965Z",
+        "updated_at": "2023-10-07T18:31:57.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76eb7c9a-439c-44ed-a885-eecccbe65fa0",
+        "created_at": "2023-10-07T10:06:49.778Z",
+        "updated_at": "2023-10-07T11:48:17.033Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "f5df6732-fdfb-40f6-a8a6-0d361d555f8d",
+        "created_at": "2023-10-07T07:20:41.383Z",
+        "updated_at": "2023-10-07T08:33:35.772Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "84b8f52b-91a2-49eb-bd35-c1a0bab34af2",
+        "created_at": "2023-10-07T18:58:58.120Z",
+        "updated_at": "2023-10-07T13:39:27.367Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "46114139-9bcf-447f-9123-5adf54009089",
+        "created_at": "2023-10-08T01:37:03.985Z",
+        "updated_at": "2023-10-07T05:13:00.170Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02431461-6714-40da-ba20-0c935c3ab8ec",
+        "created_at": "2023-10-07T10:52:04.169Z",
+        "updated_at": "2023-10-08T04:04:10.144Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "baa34ee4-3a44-4fb2-89de-1cff61b8b4e9",
+        "created_at": "2023-10-07T17:18:08.156Z",
+        "updated_at": "2023-10-07T20:51:50.835Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8f53f4a4-0f2e-421b-9a15-ec3f0c7fadf0",
+        "email": "Marguerite_Leuschke77@roq.tech",
+        "firstName": "Jon",
+        "lastName": "Mayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83485514",
+        "tenantId": null
+      },
+      {
+        "reference": "813886f6-3eaf-400c-8886-1fc806566f41",
+        "email": "Lea76@roq.tech",
+        "firstName": "Kira",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/121.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0869dd49-a237-40ed-ad54-099146538315",
+        "email": "Reagan20@roq.tech",
+        "firstName": "Shanny",
+        "lastName": "Baumbach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86378628",
+        "tenantId": null
+      },
+      {
+        "reference": "24761917-21fa-452b-b851-3c01a526c095",
+        "email": "Deven.Reichert34@roq.tech",
+        "firstName": "Elinor",
+        "lastName": "Pfannerstill",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/454.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "103f78ef-f2bf-4304-9cb1-cb05fc5f03e2",
+        "email": "Gilberto.Keebler-Bode@roq.tech",
+        "firstName": "Anika",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/600.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "4a8b999f-4b01-454e-83cc-875c850e6038",
+        "created_at": "2023-10-07T19:45:58.940Z",
+        "updated_at": "2023-10-07T14:33:58.157Z"
+      },
+      {
+        "id": "27831a02-a547-4d28-a0f1-cadffeb5c267",
+        "created_at": "2023-10-08T03:23:11.648Z",
+        "updated_at": "2023-10-07T15:45:18.747Z"
+      },
+      {
+        "id": "07d10c3e-ab3c-4d0d-81a4-a6293fea001a",
+        "created_at": "2023-10-07T18:07:24.858Z",
+        "updated_at": "2023-10-07T06:37:59.616Z"
+      },
+      {
+        "id": "4a3cb80e-94fd-4cdc-a778-ac9e057c2093",
+        "created_at": "2023-10-07T12:14:50.713Z",
+        "updated_at": "2023-10-08T02:25:46.869Z"
+      },
+      {
+        "id": "dbf27490-3e8a-4116-819e-4da6cb61b5f9",
+        "created_at": "2023-10-07T11:49:27.188Z",
+        "updated_at": "2023-10-08T03:18:05.407Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "d3573002-7fc1-49ba-bbfe-632d85db6505",
+        "created_at": "2023-10-07T04:45:10.172Z",
+        "updated_at": "2023-10-07T07:10:57.199Z"
+      },
+      {
+        "id": "c8290698-36c0-4a80-b40a-156d05f38d37",
+        "created_at": "2023-10-07T14:10:53.805Z",
+        "updated_at": "2023-10-08T00:56:56.534Z"
+      },
+      {
+        "id": "eef63ccd-d7eb-4fc5-80bd-cc84febd5be5",
+        "created_at": "2023-10-07T12:42:13.811Z",
+        "updated_at": "2023-10-07T07:43:24.761Z"
+      },
+      {
+        "id": "6ae347c1-69a1-4f6b-aaa7-b28a37acc368",
+        "created_at": "2023-10-07T07:59:44.201Z",
+        "updated_at": "2023-10-08T00:19:06.394Z"
+      },
+      {
+        "id": "aad2a6ac-c02c-4276-aaf3-7147f48d99da",
+        "created_at": "2023-10-07T21:36:50.869Z",
+        "updated_at": "2023-10-07T08:26:48.373Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "355caff2-ee8f-422b-8231-5c476f2ae57a",
+        "created_at": "2023-10-08T01:32:56.189Z",
+        "updated_at": "2023-10-07T09:16:38.289Z"
+      },
+      {
+        "id": "8536cfd8-23d8-4f42-b8a7-278bbdb72ad6",
+        "created_at": "2023-10-08T03:37:41.643Z",
+        "updated_at": "2023-10-07T16:46:56.666Z"
+      },
+      {
+        "id": "e1f24e65-c87e-4044-82d4-7c7f79bb8e25",
+        "created_at": "2023-10-07T15:57:43.784Z",
+        "updated_at": "2023-10-07T11:51:59.406Z"
+      },
+      {
+        "id": "83b2efb2-d8be-4873-9c2a-b0042082ac62",
+        "created_at": "2023-10-07T14:04:25.361Z",
+        "updated_at": "2023-10-07T12:57:08.262Z"
+      },
+      {
+        "id": "47fde145-acde-4b74-90b6-54202ad46a13",
+        "created_at": "2023-10-07T23:43:48.063Z",
+        "updated_at": "2023-10-07T15:52:58.138Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "53062c53-bbdf-4f5d-8732-f4119eb18943",
+        "created_at": "2023-10-08T01:11:12.246Z",
+        "updated_at": "2023-10-07T04:48:44.872Z"
+      },
+      {
+        "id": "60a87327-38bc-4343-962b-924ed2d6ebc1",
+        "created_at": "2023-10-07T19:03:41.754Z",
+        "updated_at": "2023-10-07T06:01:15.346Z"
+      },
+      {
+        "id": "eb2adad8-308e-4602-bd94-cb10699b2243",
+        "created_at": "2023-10-07T16:58:01.690Z",
+        "updated_at": "2023-10-07T23:48:57.829Z"
+      },
+      {
+        "id": "1b0a23cd-a3a6-4a6d-8bc2-2bc6e095095f",
+        "created_at": "2023-10-07T11:15:32.245Z",
+        "updated_at": "2023-10-07T20:56:53.044Z"
+      },
+      {
+        "id": "9c3633e0-3e9e-469a-b8a2-edc47ecdf275",
+        "created_at": "2023-10-07T07:21:31.311Z",
+        "updated_at": "2023-10-08T01:57:19.512Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "2d055e26-6abe-4977-a19a-929c054f4ecc",
+        "created_at": "2023-10-07T10:54:54.489Z",
+        "updated_at": "2023-10-07T07:29:50.637Z"
+      },
+      {
+        "id": "04ccf54d-d001-4a47-9d93-8278ddb1acb0",
+        "created_at": "2023-10-07T19:29:17.731Z",
+        "updated_at": "2023-10-08T04:32:59.407Z"
+      },
+      {
+        "id": "91f5e94a-b4ff-4caa-96c3-ee369b3f5623",
+        "created_at": "2023-10-07T14:30:48.409Z",
+        "updated_at": "2023-10-07T07:31:32.133Z"
+      },
+      {
+        "id": "2150cf86-2adc-4428-b711-938638744648",
+        "created_at": "2023-10-07T10:40:12.339Z",
+        "updated_at": "2023-10-07T10:45:44.299Z"
+      },
+      {
+        "id": "e09e1aee-fc59-4cf8-91b7-4187feb0228d",
+        "created_at": "2023-10-07T10:31:16.109Z",
+        "updated_at": "2023-10-07T13:14:51.804Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "70ca8cdb-8095-4c7a-bbf6-33dc1b0919d2",
+        "created_at": "2023-10-07T12:08:50.900Z",
+        "updated_at": "2023-10-07T11:27:00.368Z"
+      },
+      {
+        "id": "7fafa725-8821-4272-9db5-b85d4c9d242d",
+        "created_at": "2023-10-08T04:02:55.937Z",
+        "updated_at": "2023-10-07T19:26:38.103Z"
+      },
+      {
+        "id": "1eeb9a6f-5e63-4996-8feb-2a8621b48d54",
+        "created_at": "2023-10-07T08:37:35.624Z",
+        "updated_at": "2023-10-07T16:56:08.328Z"
+      },
+      {
+        "id": "c048d12f-3852-4935-a536-69d81b3977ab",
+        "created_at": "2023-10-07T14:51:52.140Z",
+        "updated_at": "2023-10-08T01:38:01.014Z"
+      },
+      {
+        "id": "b400196e-43b7-452d-869a-01ad31825167",
+        "created_at": "2023-10-07T10:42:59.440Z",
+        "updated_at": "2023-10-07T22:04:23.749Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "e2f698dc-e1c0-43b7-bf3a-c007f16f9b4d",
+        "created_at": "2023-10-07T19:27:53.495Z",
+        "updated_at": "2023-10-08T00:18:49.510Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "John Smith",
+        "employee_details": "Employee ID: 12345"
+      },
+      {
+        "id": "90847b5d-b2fd-424c-aba3-3d70c9c4f918",
+        "created_at": "2023-10-07T10:16:37.631Z",
+        "updated_at": "2023-10-07T23:46:46.138Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "Jane Doe",
+        "employee_details": "Employee ID: 67890"
+      },
+      {
+        "id": "03bff57f-4eb1-4ff7-b714-afdd96944b7c",
+        "created_at": "2023-10-07T13:59:58.816Z",
+        "updated_at": "2023-10-08T03:24:28.902Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "Michael Brown",
+        "employee_details": "Employee ID: 54321"
+      },
+      {
+        "id": "f0b8b5c1-493b-4ca9-b93d-dd75e39218c6",
+        "created_at": "2023-10-08T00:56:14.056Z",
+        "updated_at": "2023-10-07T10:08:02.440Z",
+        "employee_status": "Retired",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "Sarah Jones",
+        "employee_details": "Employee ID: 98765"
+      },
+      {
+        "id": "3d63432f-3979-4250-b8f2-88cb93141b2d",
+        "created_at": "2023-10-08T00:00:37.974Z",
+        "updated_at": "2023-10-07T18:07:24.852Z",
+        "employee_status": "Terminated",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "David Wilson",
+        "employee_details": "Employee ID: 24680"
+      }
+    ],
+    "department": [
+      {
+        "id": "07588a51-7f42-4633-bf94-3ffb761f8928",
+        "created_at": "2023-10-07T06:29:23.158Z",
+        "updated_at": "2023-10-08T03:46:30.587Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1488823-8d25-417f-acef-954fca3593a1",
+        "created_at": "2023-10-07T10:07:35.305Z",
+        "updated_at": "2023-10-07T15:30:38.917Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1d207e2-461f-4575-b298-af98c6f9eb89",
+        "created_at": "2023-10-07T21:07:40.391Z",
+        "updated_at": "2023-10-07T20:39:56.668Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e115b537-e5ee-4cfa-a689-8a7b8911e44e",
+        "created_at": "2023-10-07T19:24:14.219Z",
+        "updated_at": "2023-10-07T08:24:22.521Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4193e507-98c6-4ea4-afa2-7d127719a25e",
+        "created_at": "2023-10-07T20:24:52.290Z",
+        "updated_at": "2023-10-08T02:49:19.599Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "fec761be-d198-4ddd-a794-d01de5a7cf3f",
+        "created_at": "2023-10-07T09:08:11.792Z",
+        "updated_at": "2023-10-07T14:56:19.249Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0eb3893-6891-48db-8d03-549a5ddcf824",
+        "created_at": "2023-10-07T05:22:58.412Z",
+        "updated_at": "2023-10-07T17:59:11.708Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d54545f8-c260-4755-bc27-55007d192026",
+        "created_at": "2023-10-08T00:57:46.910Z",
+        "updated_at": "2023-10-07T21:31:37.181Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98d73ccf-0127-4653-b534-6f5151d319b1",
+        "created_at": "2023-10-07T06:01:06.318Z",
+        "updated_at": "2023-10-07T06:03:06.404Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f1208c7-d94f-4abe-b789-2b154e795309",
+        "created_at": "2023-10-07T10:57:58.737Z",
+        "updated_at": "2023-10-07T08:30:37.388Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "784c4706-66de-4796-9ddb-8a19dd4db279",
+        "created_at": "2023-10-08T00:11:37.984Z",
+        "updated_at": "2023-10-07T23:47:09.149Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7bc78bcd-dd28-4dbb-b2f7-25d8506ff923",
+        "created_at": "2023-10-07T05:38:43.869Z",
+        "updated_at": "2023-10-07T21:22:32.680Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42ea2232-5182-4737-8439-3b707b3c9c48",
+        "created_at": "2023-10-07T09:30:00.000Z",
+        "updated_at": "2023-10-08T03:41:21.981Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f40666e-3724-4c48-ae7a-e2e00f4b1933",
+        "created_at": "2023-10-07T12:13:55.757Z",
+        "updated_at": "2023-10-08T03:06:34.577Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47655c84-09a7-41fb-bdf5-0297f99ff42c",
+        "created_at": "2023-10-07T09:25:35.561Z",
+        "updated_at": "2023-10-07T18:32:52.055Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9a875056-f4d5-4214-af1f-562b021d25c7",
+        "email": "Alvina23@roq.tech",
+        "firstName": "Vinnie",
+        "lastName": "Stiedemann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75162143",
+        "tenantId": null
+      },
+      {
+        "reference": "c5c8bf4a-ef37-4cfb-ba1f-6b690d7fedbc",
+        "email": "Floyd86@roq.tech",
+        "firstName": "Christa",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14738812",
+        "tenantId": null
+      },
+      {
+        "reference": "d5992624-b1d0-4fd2-9c26-01b8e362fa1f",
+        "email": "Kallie48@roq.tech",
+        "firstName": "King",
+        "lastName": "Rice",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5618662",
+        "tenantId": null
+      },
+      {
+        "reference": "8a2b24e5-bec8-4546-acd4-701e8f8b262f",
+        "email": "Domenic.Rath34@roq.tech",
+        "firstName": "Dario",
+        "lastName": "Cummerata",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/15.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "15429b5f-d3cf-47ad-a53c-41ceda07fa21",
+        "email": "Dana_Fritsch43@roq.tech",
+        "firstName": "Clifford",
+        "lastName": "DuBuque-Daugherty",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68602557",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "69b5b36c-fa82-496f-80d8-1f31e95c2231",
+        "created_at": "2023-10-07T15:41:21.093Z",
+        "updated_at": "2023-10-08T02:35:38.202Z"
+      },
+      {
+        "id": "69861819-17b9-4947-a288-2dcd562ac4e5",
+        "created_at": "2023-10-07T07:27:07.374Z",
+        "updated_at": "2023-10-07T21:01:48.473Z"
+      },
+      {
+        "id": "81988cec-9b8b-42a7-8e0c-d3eeca7abe94",
+        "created_at": "2023-10-07T20:12:21.353Z",
+        "updated_at": "2023-10-08T01:20:09.122Z"
+      },
+      {
+        "id": "228219a9-f61b-4237-a8e2-df60f3fb2664",
+        "created_at": "2023-10-07T23:46:50.967Z",
+        "updated_at": "2023-10-08T03:16:07.179Z"
+      },
+      {
+        "id": "a52060ce-20be-429d-b9d1-09fbd1d4fb46",
+        "created_at": "2023-10-07T08:43:44.271Z",
+        "updated_at": "2023-10-07T17:03:49.298Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "e2ac29bf-6b4c-4f90-bbb3-a06449d26d94",
+        "created_at": "2023-10-07T20:09:11.470Z",
+        "updated_at": "2023-10-07T10:15:34.425Z"
+      },
+      {
+        "id": "62b5db6d-24ef-4e86-9ce1-3bb3f6ad1df5",
+        "created_at": "2023-10-07T10:38:55.109Z",
+        "updated_at": "2023-10-07T07:47:43.357Z"
+      },
+      {
+        "id": "fca43ec5-95b1-413f-89d7-2c5e17b37e58",
+        "created_at": "2023-10-07T20:48:37.099Z",
+        "updated_at": "2023-10-07T06:17:52.817Z"
+      },
+      {
+        "id": "61e04a39-2bac-4bb1-a24d-a5156495c606",
+        "created_at": "2023-10-07T17:29:02.626Z",
+        "updated_at": "2023-10-07T06:03:33.954Z"
+      },
+      {
+        "id": "f4199be8-0399-4a6e-a14f-50e245765524",
+        "created_at": "2023-10-07T21:50:39.442Z",
+        "updated_at": "2023-10-08T00:11:23.397Z"
+      }
+    ],
+    "performance_review": [
+      {
+        "id": "21a8a945-3a13-481d-bfad-30bcd561048b",
+        "created_at": "2023-10-07T10:40:25.638Z",
+        "updated_at": "2023-10-07T15:21:26.563Z"
+      },
+      {
+        "id": "6fd28768-f2b3-4a36-ba5a-6bd233130452",
+        "created_at": "2023-10-07T15:53:52.686Z",
+        "updated_at": "2023-10-07T04:56:15.299Z"
+      },
+      {
+        "id": "4d5b4db2-41a8-477d-a336-1db81774e22c",
+        "created_at": "2023-10-07T07:24:59.739Z",
+        "updated_at": "2023-10-07T12:28:05.542Z"
+      },
+      {
+        "id": "e819331c-6287-4006-964a-87a95821a8f3",
+        "created_at": "2023-10-07T05:28:28.206Z",
+        "updated_at": "2023-10-07T06:29:59.205Z"
+      },
+      {
+        "id": "9503574c-cd5b-456b-9b50-263c85a03ede",
+        "created_at": "2023-10-07T20:23:36.083Z",
+        "updated_at": "2023-10-07T10:12:37.290Z"
+      }
+    ],
+    "leave_record": [
+      {
+        "id": "7d075dc5-5ccc-453f-959e-789111510883",
+        "created_at": "2023-10-07T16:57:42.440Z",
+        "updated_at": "2023-10-07T18:11:52.313Z"
+      },
+      {
+        "id": "33b42ac1-2177-4852-904f-0721892d4172",
+        "created_at": "2023-10-07T17:34:09.434Z",
+        "updated_at": "2023-10-07T15:29:56.869Z"
+      },
+      {
+        "id": "b0f1a237-2eb4-45da-b18a-6c365ad7585b",
+        "created_at": "2023-10-07T15:06:00.749Z",
+        "updated_at": "2023-10-07T18:20:13.774Z"
+      },
+      {
+        "id": "8a3f8508-42d7-4274-a396-ab0ca853be98",
+        "created_at": "2023-10-07T05:42:49.522Z",
+        "updated_at": "2023-10-07T06:54:23.988Z"
+      },
+      {
+        "id": "a80f235c-b310-4408-a58c-6ed82f9cfd24",
+        "created_at": "2023-10-08T03:41:20.148Z",
+        "updated_at": "2023-10-07T13:08:08.805Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "c38c216c-a2f2-42e6-814e-68095cfe6a34",
+        "created_at": "2023-10-07T20:26:54.800Z",
+        "updated_at": "2023-10-07T14:30:34.535Z"
+      },
+      {
+        "id": "94993b6b-aa34-4c95-a8fa-bd78170f0b72",
+        "created_at": "2023-10-07T16:53:40.091Z",
+        "updated_at": "2023-10-07T16:34:52.697Z"
+      },
+      {
+        "id": "2e6d1756-0ff4-4775-af41-a8b5cbbb3f78",
+        "created_at": "2023-10-07T08:26:11.291Z",
+        "updated_at": "2023-10-07T08:10:42.047Z"
+      },
+      {
+        "id": "041e42c3-a887-4d30-acde-1027e99b8ccf",
+        "created_at": "2023-10-07T22:34:29.496Z",
+        "updated_at": "2023-10-08T02:34:09.605Z"
+      },
+      {
+        "id": "de5776ad-6384-4b1a-b2ed-69bcb3a26c84",
+        "created_at": "2023-10-08T00:08:30.100Z",
+        "updated_at": "2023-10-07T22:39:59.905Z"
+      }
+    ],
+    "employee_training": [
+      {
+        "id": "9ee27a3a-f176-4550-8c4e-0000b7dd69ac",
+        "created_at": "2023-10-07T13:31:03.578Z",
+        "updated_at": "2023-10-08T04:04:38.713Z"
+      },
+      {
+        "id": "0c712416-6e55-47bd-878f-6702886926b4",
+        "created_at": "2023-10-07T19:12:30.133Z",
+        "updated_at": "2023-10-07T07:08:50.283Z"
+      },
+      {
+        "id": "b5a960ed-62dc-4d0c-8217-dded990e08d3",
+        "created_at": "2023-10-07T12:13:52.925Z",
+        "updated_at": "2023-10-08T01:35:02.131Z"
+      },
+      {
+        "id": "c6181d00-5ed1-4650-8561-69aaaa043380",
+        "created_at": "2023-10-07T21:00:23.887Z",
+        "updated_at": "2023-10-07T04:57:39.792Z"
+      },
+      {
+        "id": "4a5d3a73-59d0-4316-bef3-f443bf9bdb44",
+        "created_at": "2023-10-07T13:41:54.964Z",
+        "updated_at": "2023-10-07T06:48:37.246Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "64435051-21fd-4a9b-85f9-275a9c2149eb",
+        "created_at": "2023-10-07T18:38:59.389Z",
+        "updated_at": "2023-10-07T15:51:16.173Z",
+        "employee_status": "Active",
+        "employee_address": "123 Main St",
+        "employee_emergency_contact": "555-1234",
+        "employee_details": "Full-time"
+      },
+      {
+        "id": "ccb90640-2b8b-46f0-966a-f9725dd9a9d1",
+        "created_at": "2023-10-07T15:22:02.449Z",
+        "updated_at": "2023-10-07T18:41:30.821Z",
+        "employee_status": "Inactive",
+        "employee_address": "456 Elm St",
+        "employee_emergency_contact": "555-5678",
+        "employee_details": "Part-time"
+      },
+      {
+        "id": "b10feec0-5208-4ca2-9aeb-9bce0009d862",
+        "created_at": "2023-10-07T20:49:37.098Z",
+        "updated_at": "2023-10-07T17:57:44.282Z",
+        "employee_status": "On Leave",
+        "employee_address": "789 Oak St",
+        "employee_emergency_contact": "555-9876",
+        "employee_details": "Contract"
+      },
+      {
+        "id": "c686bdb1-88c9-4584-bbd7-a45b489e922e",
+        "created_at": "2023-10-07T17:23:49.906Z",
+        "updated_at": "2023-10-07T05:06:41.345Z",
+        "employee_status": "Terminated",
+        "employee_address": "321 Pine St",
+        "employee_emergency_contact": "555-4321",
+        "employee_details": "Intern"
+      },
+      {
+        "id": "42d5855c-78a5-41bf-ae99-180dd5223078",
+        "created_at": "2023-10-07T19:03:38.273Z",
+        "updated_at": "2023-10-07T06:24:20.109Z",
+        "employee_status": "Retired",
+        "employee_address": "654 Maple St",
+        "employee_emergency_contact": "555-8765",
+        "employee_details": "Freelancer"
+      }
+    ],
+    "department": [
+      {
+        "id": "cf0b29d7-cc8d-475d-a90b-fa3cf5b0d73d",
+        "created_at": "2023-10-07T12:29:34.373Z",
+        "updated_at": "2023-10-07T14:03:57.897Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7307fc0d-fa42-49e5-a610-97ce45e1dd29",
+        "created_at": "2023-10-07T18:25:57.089Z",
+        "updated_at": "2023-10-07T05:31:11.649Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14f8e08e-8aa1-4d7a-93c0-09bce9f608c0",
+        "created_at": "2023-10-07T13:39:11.652Z",
+        "updated_at": "2023-10-07T16:46:44.997Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0974e7c0-fef3-4480-a4b6-83ef52f07fe2",
+        "created_at": "2023-10-07T09:47:44.500Z",
+        "updated_at": "2023-10-07T09:03:30.498Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de7fdf9e-90d8-46e6-8b40-7cf2813e5c2a",
+        "created_at": "2023-10-07T10:09:34.793Z",
+        "updated_at": "2023-10-07T08:43:56.765Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "2eb75bfc-5332-4d84-9a33-5b3550a6f0c1",
+        "created_at": "2023-10-07T21:43:33.702Z",
+        "updated_at": "2023-10-07T21:18:54.100Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5088504-2e20-410a-ab97-8818ee6cd1c4",
+        "created_at": "2023-10-07T22:26:40.895Z",
+        "updated_at": "2023-10-07T06:05:54.754Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4482b695-ef38-4f4d-843a-efffcb44a02b",
+        "created_at": "2023-10-08T04:40:46.470Z",
+        "updated_at": "2023-10-07T09:06:02.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d9b4899-8b65-4de3-9952-0c55eb4095da",
+        "created_at": "2023-10-07T13:56:59.876Z",
+        "updated_at": "2023-10-07T07:47:52.947Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd545f0c-60c9-4dee-b62c-1521dbd81776",
+        "created_at": "2023-10-08T03:35:43.536Z",
+        "updated_at": "2023-10-08T03:59:01.946Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "8f07444e-94e0-4562-926a-16956086514a",
+        "created_at": "2023-10-07T23:37:09.378Z",
+        "updated_at": "2023-10-07T15:38:44.943Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dfca4ed1-adfe-4c2b-a6a9-ecf1bb4d6856",
+        "created_at": "2023-10-07T18:17:07.106Z",
+        "updated_at": "2023-10-08T02:05:18.774Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3ad2f24-16b0-41b8-842b-a7b2da3c1c47",
+        "created_at": "2023-10-07T19:16:24.862Z",
+        "updated_at": "2023-10-07T08:12:40.228Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a82af02d-9a13-42a5-87c8-cab158410b97",
+        "created_at": "2023-10-08T04:15:56.759Z",
+        "updated_at": "2023-10-07T13:49:46.397Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "162d6a9b-821f-418e-befd-389ff6960e51",
+        "created_at": "2023-10-08T01:40:48.939Z",
+        "updated_at": "2023-10-07T14:47:16.842Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "882ef4d7-bd2c-4168-8eb2-431d8f110d5e",
+        "email": "Joanie.OKon76@roq.tech",
+        "firstName": "Ramona",
+        "lastName": "Blick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/275.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8ba88e86-93bc-44f0-b66f-73e6d62064b1",
+        "email": "Anastasia17@roq.tech",
+        "firstName": "Elisabeth",
+        "lastName": "Beier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1240.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2dd93693-1caa-4e33-80b9-52819f0ac593",
+        "email": "Laverna29@roq.tech",
+        "firstName": "Aida",
+        "lastName": "Boehm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57744689",
+        "tenantId": null
+      },
+      {
+        "reference": "d2efa245-abc2-4e65-9244-450220ad6d44",
+        "email": "Abdiel_Kihn@roq.tech",
+        "firstName": "Zackary",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77925353",
+        "tenantId": null
+      },
+      {
+        "reference": "8321a930-6332-4205-b570-603424ff3ad0",
+        "email": "Flo_Howell-Will@roq.tech",
+        "firstName": "Orrin",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54121128",
+        "tenantId": null
+      }
+    ]
+  }
+]
